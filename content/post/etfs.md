@@ -1,7 +1,7 @@
 ---
 title: "Money Boats"
 date: 2020-09-24T20:12:15+01:00
-image: images/blog/complicated.jpg
+hero: /images/sunflower.jpg
 description: "This is a meta description"
 ---
 
