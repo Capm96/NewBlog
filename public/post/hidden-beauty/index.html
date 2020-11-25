@@ -1,0 +1,478 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/images/favicon.svg">
+    
+    <link rel="stylesheet" href="/capm96.github.io/scss/global.min.febf67ca94390198daa11693993dfeaabba2e6affbd40f291ab5081feac1bddd.css">
+    
+    <link rel="stylesheet" href="/capm96.github.io/css/prism.css" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+    
+
+ 
+
+
+
+
+
+
+	
+
+
+
+
+<title>The Hidden Beauty of (Mathematical) Irrationality | My New Hugo Site</title>
+<meta name="description" content="This is a meta description">
+<meta property="og:title" content="The Hidden Beauty of (Mathematical) Irrationality | My New Hugo Site">
+<meta property="og:site_name" content="My New Hugo Site">
+<meta property="og:description" content="This is a meta description">
+<meta property="og:url" content="capm96.github.io/post/hidden-beauty/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content='/images/sunflower.jpg'><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Hidden Beauty of (Mathematical) Irrationality | My New Hugo Site">
+
+	<link rel="canonical" href="capm96.github.io/post/hidden-beauty/">
+
+
+	<meta name="twitter:description" content="This is a meta description">
+<meta name="twitter:image" content="/images/sunflower.jpg">
+<meta property="article:published_time" content="2019-05-23T16:15:04-03:00">
+	<meta property="article:updated_time" content="2019-05-23T16:15:04-03:00">
+
+
+
+    </head>
+
+
+<body class="line-numbers">
+
+    
+    <script src="/capm96.github.io/js/initColors.js"></script>
+
+    <div class="layout-styled">
+
+        <Section class="section">
+  <div class="nav-container">
+    <a class="logo-link" href="/">
+      <div id="logo-desktop">
+        <svg
+        width="192"
+        height="23"
+        viewBox="0 0 192 23"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="Logo__Desktop"
+      >
+        <g clipPath="url(#clip0)">
+          <path
+            d="M120.941 6.15477H122.453V2.83255L124.114 2.44922V6.15477H126.713V7.30477H124.114V16.377C124.114 17.314 124.54 17.7826 125.435 17.7826C125.925 17.7826 126.478 17.6335 126.904 17.4205L127.181 18.4214C126.606 18.7835 125.861 18.9964 124.86 18.9964C123.539 18.9964 122.432 18.3788 122.432 16.5261V7.30477H120.92V6.15477H120.941Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M131.739 7.77334C132.825 6.70852 134.273 5.89926 135.764 5.89926C137.723 5.89926 138.937 6.94278 138.937 9.17889V17.6122L140.555 17.8465V18.7409H137.233V9.58352C137.233 7.9863 136.616 7.30482 135.338 7.30482C134.166 7.30482 132.74 8.0076 131.739 8.90204V17.5909L133.442 17.8039V18.7196H128.416V17.8039L130.078 17.5909V1.29926L128.374 1.04371V0.0214844H131.739V7.77334V7.77334Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M141.854 12.4374C141.854 7.6883 143.92 5.89941 146.731 5.89941C149.648 5.89941 151.267 7.64571 151.267 11.9689V12.629H143.6C143.621 16.3772 144.686 17.8253 147.284 17.8253C148.605 17.8253 149.584 17.3994 150.5 16.7818L151.096 17.6124C150.01 18.5068 148.754 18.9966 147.008 18.9966C143.941 18.9753 141.854 17.2929 141.854 12.4374ZM143.621 11.5216H149.521C149.521 8.34849 148.754 6.98552 146.709 6.98552C144.857 6.98552 143.771 8.2633 143.621 11.5216Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M162.682 7.85849C163.768 6.70849 165.024 5.87793 166.515 5.87793C168.474 5.87793 169.646 6.92145 169.646 9.15756V17.6335L171.286 17.8677V18.6983H167.963V9.68997C167.963 8.07145 167.388 7.32608 166.089 7.32608C164.918 7.32608 163.789 8.02886 162.81 8.9233V17.6122L164.449 17.8464V18.7409H161.127V9.68997C161.127 8.07145 160.552 7.32608 159.253 7.32608C158.082 7.32608 156.953 8.02886 155.973 8.9233V17.6122L157.677 17.8464V18.7409H152.651V17.8464L154.312 17.6122V7.47515L152.609 7.2196V6.15478H155.654L155.888 7.85849C156.974 6.72978 158.188 5.89923 159.679 5.89923C161.212 5.87793 162.277 6.51682 162.682 7.85849Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M171.925 12.4374C171.925 7.6883 173.991 5.89941 176.802 5.89941C179.719 5.89941 181.338 7.64571 181.338 11.9689V12.629H173.671C173.692 16.3772 174.757 17.8253 177.355 17.8253C178.676 17.8253 179.655 17.3994 180.571 16.7818L181.167 17.6124C180.081 18.5068 178.825 18.9966 177.079 18.9966C174.012 18.9753 171.925 17.2929 171.925 12.4374ZM173.692 11.5216H179.591C179.591 8.34849 178.825 6.98552 176.78 6.98552C174.928 6.98552 173.863 8.2633 173.692 11.5216Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M183.084 18.0383V15.504H184.234L184.618 17.442C185.278 17.7189 185.789 17.8892 186.811 17.8892C188.664 17.8892 189.558 17.0374 189.558 15.5466C189.558 14.0559 188.834 13.4809 186.79 12.8846C184.831 12.2883 183.382 11.4577 183.382 9.13645C183.382 7.39016 184.639 5.89941 187.195 5.89941C188.664 5.89941 189.835 6.17627 190.687 6.68738V9.15775H189.558L189.132 7.34756C188.579 7.09201 187.961 7.00682 187.258 7.00682C185.789 7.00682 184.852 7.7309 184.852 8.98738C184.852 10.3077 185.576 10.8189 187.365 11.3513C189.431 12.0115 191.156 12.7142 191.156 15.3976C191.156 17.7615 189.431 18.9753 186.79 18.9753C185.235 18.9753 183.957 18.6346 183.084 18.0383Z"
+            fill="#7A8085"
+          />
+          <path class="change-fill"
+            d="M38.3122 9.98811C38.3122 8.66774 37.9501 8.15663 36.9492 8.15663C36.1186 8.15663 35.0964 8.62515 34.3936 9.20015V16.9733L35.8418 17.165V18.6344H30.0918V17.165L31.5825 16.9733V8.24182L30.0918 7.92237V6.19737H33.9251L34.2446 7.64552C35.3733 6.55941 36.6298 5.87793 38.1418 5.87793C39.9946 5.87793 41.102 6.92145 41.102 9.07237V16.9733L42.5927 17.165V18.6344H38.3122V9.98811V9.98811Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M62.3982 17.1858V18.6553H56.0732V17.1858L57.564 16.9942V8.2627L56.0732 7.94326V6.21826H59.8427L60.226 8.17752C61.0779 6.85715 62.1427 5.94141 63.6973 5.94141C63.8677 5.94141 64.0594 5.9627 64.1871 6.0053L63.8251 8.94418C63.5483 8.81641 63.2501 8.77381 62.8668 8.77381C61.8871 8.77381 61.1418 9.05067 60.3751 9.71085V16.9516L62.3982 17.1858Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M76.7098 6.19733H78.0941V3.08807L80.5432 2.55566V6.21863H82.9709V8.0927H80.5432V15.6742C80.5432 16.5899 80.8839 16.9946 81.6293 16.9946C82.0978 16.9946 82.5876 16.8455 82.907 16.6751L83.3543 18.3575C82.758 18.6983 81.9061 18.9751 80.6709 18.9751C78.9672 18.9751 78.0941 18.1658 78.0941 16.0362V8.0927H76.7098V6.19733Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M90.4664 17.1648V18.6343H84.6738V17.1648L86.1646 16.9731V8.24167L84.6738 7.92222V6.19722H88.9757V16.9731L90.4664 17.1648ZM85.696 1.76759C85.696 0.787963 86.4627 0 87.4423 0C88.422 0 89.1886 0.766667 89.1886 1.76759C89.1886 2.72593 88.422 3.51389 87.421 3.51389C86.4627 3.51389 85.696 2.72593 85.696 1.76759Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M98.3251 7.90097V6.19727H103.053V7.92227L101.924 8.11393L98.3251 18.6556H95.663L92.064 8.09264L90.9991 7.92227V6.19727H96.2593V7.90097L95.0242 8.09264L96.7279 13.6084C97.0473 14.6519 97.1964 15.5037 97.3668 16.4834H97.388C97.5371 15.525 97.7714 14.5241 98.0482 13.5871L99.6668 8.07134L98.3251 7.90097Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M75.6867 17.1224C74.5793 17.1437 74.3664 16.952 74.3664 15.9724V9.79645C74.3664 6.96404 72.9821 5.87793 70.3201 5.87793C68.3821 5.87793 66.7423 6.45293 65.4219 7.28349L66.2312 9.02978C67.3599 8.45478 68.4673 8.09274 69.7238 8.09274C71.1932 8.09274 71.5552 8.88071 71.5552 10.265V11.0316V11.2233V12.7779V12.8844V16.1214C71.0867 16.6326 70.4052 17.0585 69.4469 17.0585C68.3821 17.0585 67.871 16.5261 67.871 15.0353C67.871 13.3103 68.5951 12.8205 70.4904 12.7779V11.2233C66.6358 11.2659 65.0386 12.4372 65.0386 15.2057C65.0386 17.8465 66.4867 18.9752 68.6589 18.9752C70.2136 18.9752 71.0654 18.315 71.7895 17.5696C72.0451 18.5705 72.833 18.9752 73.8978 18.9752C74.6645 18.9752 75.3886 18.7622 75.8571 18.5066L75.6867 17.1224Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M54.4968 17.1224C53.3894 17.1437 53.1764 16.952 53.1764 15.9724V9.79645C53.1764 6.96404 51.7922 5.87793 49.1301 5.87793C47.1922 5.87793 45.5523 6.45293 44.232 7.28349L45.0412 9.02978C46.1699 8.45478 47.2773 8.09274 48.5338 8.09274C50.0033 8.09274 50.3653 8.88071 50.3653 10.265V11.0316V11.2233V12.7779V12.8844V16.1214C49.8968 16.6326 49.2153 17.0585 48.257 17.0585C47.1922 17.0585 46.681 16.5261 46.681 15.0353C46.681 13.3103 47.4051 12.8205 49.3005 12.7779V11.2233C45.4459 11.2659 43.8486 12.4372 43.8486 15.2057C43.8486 17.8465 45.2968 18.9752 47.469 18.9752C49.0236 18.9752 49.8755 18.315 50.5996 17.5696C50.8551 18.5705 51.6431 18.9752 52.7079 18.9752C53.4746 18.9752 54.1986 18.7622 54.6672 18.5066L54.4968 17.1224Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M107.653 13.055H113.594V11.9476C113.594 7.47534 111.869 5.89941 108.803 5.89941C105.63 5.89941 103.628 7.79478 103.628 12.4161C103.628 17.1013 105.523 18.9966 109.058 18.9966C110.954 18.9966 112.231 18.5068 113.467 17.5272L112.657 16.0577C111.678 16.6753 110.868 17.0587 109.463 17.0587C107.546 17.0587 106.801 16.1855 106.63 14.0133C106.588 13.6939 106.567 13.0976 106.567 12.4587C106.567 12.054 106.567 11.6707 106.588 11.3726V11.3513C106.737 8.51886 107.397 7.60312 108.781 7.60312C110.4 7.60312 110.783 8.58275 110.783 11.3513H107.674V13.055H107.653Z"
+            fill="#000"
+          />
+          <path class="change-fill" d="M17.5907 20.2954H0V23H17.5907V20.2954Z" fill="#000" />
+          <path class="change-fill"
+            d="M0 7.96484V18.9537L5.38796 15.1843V11.7343L0 7.96484Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M17.5689 10.9463V0L12.1597 3.74815V7.13426L17.5689 10.9463Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M17.5907 18.975L17.5694 12.288L0 0V6.62315L17.5907 18.975Z"
+            fill="#000"
+          />
+        </g>
+        <defs>
+          <clipPath id="clip0">
+            <rect width="191.156" height="23" fill="white" />
+          </clipPath>
+        </defs>
+      </svg>
+</div>
+<div id="logo-mobile" class="hidden">
+    <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+    width="23" height="23" viewBox="0 0 512.000000 512.000000"
+    preserveAspectRatio="xMidYMid meet">
+   <metadata>
+   Created by potrace 1.15, written by Peter Selinger 2001-2017
+   </metadata>
+   <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+   fill="" stroke="none">
+   <path d="M590 4383 l1 -738 756 -530 c698 -489 1151 -807 2618 -1837 l540
+   -380 3 748 c2 590 -1 751 -10 760 -7 7 -308 218 -668 470 -360 251 -1230 859
+   -1933 1351 -702 491 -1284 893 -1292 893 -13 0 -15 -92 -15 -737z"/>
+   <path d="M3887 4708 l-597 -412 0 -381 0 -381 597 -419 c328 -231 602 -421
+   610 -423 11 -3 13 204 13 1212 0 987 -2 1216 -13 1216 -7 0 -282 -186 -610
+   -412z"/>
+   <path d="M590 2135 c0 -910 3 -1225 11 -1225 10 0 343 231 1049 728 l155 109
+   0 389 0 388 -595 418 c-327 229 -601 417 -607 418 -10 0 -13 -251 -13 -1225z"/>
+   <path d="M590 320 l0 -310 1960 0 1960 0 0 310 0 310 -1960 0 -1960 0 0 -310z"/>
+   </g>
+   </svg>
+</div>
+      <span class="header-hidden">Navigate back to the homepage</span>
+    </a>
+    <div class="nav-controls">
+      <button id="copyButton" class="icon-wrapper">
+        <svg
+    class="icon-image"
+    width="24"
+    height="20"
+    viewBox="0 0 24 20"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    >
+    <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M2 5C2 3.34328 3.34328 2 5 2H14C15.6567 2 17 3.34328 17 5V9C17 10.6567 15.6567 12 14 12H10C9.44771 12 9 12.4477 9 13C9 13.5523 9.44771 14 10 14H14C16.7613 14 19 11.7613 19 9V5C19 2.23872 16.7613 0 14 0H5C2.23872 0 0 2.23872 0 5V9C0 10.4938 0.656313 11.8361 1.6935 12.7509C2.10768 13.1163 2.73961 13.0767 3.10494 12.6625C3.47028 12.2483 3.43068 11.6164 3.0165 11.2511C2.39169 10.6999 2 9.89621 2 9V5ZM7 11C7 9.34328 8.34328 8 10 8H14C14.5523 8 15 7.55228 15 7C15 6.44772 14.5523 6 14 6H10C7.23872 6 5 8.23872 5 11V15C5 17.7613 7.23872 20 10 20H19C21.7613 20 24 17.7613 24 15V11C24 9.50621 23.3437 8.16393 22.3065 7.24906C21.8923 6.88372 21.2604 6.92332 20.8951 7.3375C20.5297 7.75168 20.5693 8.38361 20.9835 8.74894C21.6083 9.30007 22 10.1038 22 11V15C22 16.6567 20.6567 18 19 18H10C8.34328 18 7 16.6567 7 15V11Z"
+      fill="#000"
+    />
+</svg>
+        <div id="toolTip" class="tool-tip " >
+            copied
+        </div>
+        <input id="copyText" style="opacity: 0;" type="text" class="tool-tip " />
+      </button>
+
+      <button id="themeColorButton" class="icon-wrapper"> 
+        <div id="sunRays" class="sun-rays"></div>
+        <div id="moonOrSun" class="moon-or-sun"></div>
+        <div id="moonMask" class="moon-mask"></div>
+      </button>
+    </div>
+</div>
+</Section>
+
+
+<script src="/capm96.github.io/js/toggleLogos.js"></script>
+
+
+<script src="/capm96.github.io/js/toggleColors.js"></script>
+
+
+<script src="/capm96.github.io/js/copyUrl.js"></script>
+
+        
+
+<section class="section narrow">
+
+    <section id="articleHero" class="section narrow">
+    <div class="article-hero">
+        <header class="article-header">
+            <h1 class="article-hero-heading">The Hidden Beauty of (Mathematical) Irrationality</h1>
+            <div class="article-hero-subtitle">
+                <div class="article-meta">
+                    
+
+
+    <div class="article-coauthors-container">
+        
+        <span id="collapsedCoauthors" class="article-coauthors-collapsed">
+            <div class="article-coauthors-list" style="width: 0px;">
+                
+            </div>
+            <strong class="article-coauthors-name-container">
+                
+            </strong>
+            <div class="article-coauthors-icon-container">
+                <svg
+width="17"
+height="17"
+viewBox="0 0 17 17"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+>
+    <path style="fill: var(--primary);"
+      d="M5.3209 8.86719L8.50026 12.0396L11.6796 8.86719L12.6563 9.84385L8.50026 13.9999L4.34424 9.84385L5.3209 8.86719Z"
+    />
+    <path style="fill: var(--primary);"
+      d="M11.6791 8.13281L8.49974 4.96039L5.32039 8.13281L4.34373 7.15615L8.49974 3.00013L12.6558 7.15615L11.6791 8.13281Z"
+    />
+</svg>
+            </div>
+        </span>
+
+        <ul id="uncollapsedCoauthors" class="article-coauthors-list-open hidden">
+            <div id="uncollapsedAction" class="article-icon-open-container">
+                <svg
+width="17"
+height="17"
+viewBox="0 0 17 17"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+>
+    <path style="fill: var(--primary);"
+      d="M11.6796 14L8.50023 10.8276L5.32088 14L4.34422 13.0233L8.50023 8.86732L12.6563 13.0233L11.6796 14Z"
+    />
+    <path style="fill: var(--primary);"
+      d="M5.32041 3L8.49977 6.17243L11.6791 3L12.6558 3.97666L8.49977 8.13268L4.34375 3.97666L5.32041 3Z"
+    />
+</svg>
+            </div>
+            
+        </ul>
+    </div>
+
+
+
+<script src="/capm96.github.io/js/collapseAuthors.js"></script>
+                    May 23, 2019
+                    • 9 min read
+                </div>
+            </div>
+        </header>
+        
+        <div class="article-hero-image" id="ArticleImage__Hero">
+            <img src="/images/sunflower.jpg">
+        </div>
+        
+    </div>
+</section>
+
+
+    <aside id="progressBar" class="aside-container">
+    <div class="aside-align">
+      <div>
+        <div class="overlap-container">
+        </div>
+      </div>
+    </div>
+
+    <div class="progress-container" tabIndex={-1}>
+        <div class="track-line" aria-hidden="true">
+            <div id="progressIndicator" class="progress-line"></div>
+        </div>
+    </div>
+</aside>
+
+
+    <article  id="articleContent" class="post-content" style="position:relative;">
+        <p>The words which you are reading now have no objective truth behind them. How could they? We invented them. Every single language on Earth is a human invention, designed to facilitate communication and ultimately enable us to work together cohesively. It is in fact the greatest human invention, since it is the one which all others are built upon.</p>
+<p>However, despite its unparalleled utility, languages are only useful for communicating with other humans. If we wanted to communicate with the universe, how could we speak? One of the answers is through mathematics – the studies of patterns, truth, and reality itself.</p>
+<p>My goal with this post is to illustrate an incredibly interesting way in which nature communicates with us – through the Fibonacci Numbers &amp; the Golden Ratio – and how our understanding of mathematics has enabled us to understand what nature is trying to say.</p>
+<p>Disclaimer: I am by no means a mathematician or expert on this topic, I am just trying to share something I am fascinated by. If you see anything wrong, please feel free to correct me.</p>
+<h3 id="what-are-the-fibonacci-numbers">What are the Fibonacci Numbers?</h3>
+<p>The Fibonacci numbers are a sequence of numbers. The law governing this sequence is this:</p>
+<p>Fn = Fn-1 + Fn-2</p>
+<p>This means that the next number in the sequence is equal to the sum of the two previous numbers. For instance, the sequence</p>
+<p>F = {1, 1} will become</p>
+<p>F = {1, 1, 2}, since 2 is equal to 1 + 1,</p>
+<p>then F = {1, 1, 2, 3}, since 3 is equal to 2 + 1,</p>
+<p>then F = {1, 1, 2, 3, 5, 8, 13} and so on, indefinitely if you wish.</p>
+<p>These numbers appeared in the Western world in the 13th century, when a man named Leonardo of Pisa introduced them in his book <em>Liber Abaci</em>. However, it is believed that these numbers were known as early as 200 BC.</p>
+<p>The scope of the mathematical functionality of this sequence is beyond the scale of this post, but there are very interesting properties about these numbers, and people have been fascinated by them for a long time.</p>
+<p>However, the one of the properties which has perhaps fascinated people the most is this:</p>
+<p><strong>The division of adjacent Fibonacci Numbers gets infinitely closer to the Golden Ratio, (also illustrated as the symbol Ф, “Phi”)  or 0.618033…</strong></p>
+<h3 id="one-of-the-relationships-between-fibonacci-and-ф">One of the relationships between Fibonacci and Ф</h3>
+<p>Let us list the first ten Fibonacci Numbers:</p>
+<p>F = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55}</p>
+<p>Now lets divide the adjacent numbers:</p>
+<p>( 1 / 2 ) = 1.5</p>
+<p>( 2 / 3 ) = 0.66</p>
+<p>( 3 / 5 ) = 0.6</p>
+<p>( 5 / 8 ) = 0.625</p>
+<p>…</p>
+<p>( 34 / 55 ) = 0.61818181818</p>
+<p>(PS: People also refer to the Golden Ratio as 1.618033&hellip; instead of 0.618033. These numbers are interchangeable.)</p>
+<p>As we can see, these numbers when divided get closer and closer to 0.618033.</p>
+<p>What is the meaning of this number? Again, the beauty of this seemingly unimportant number is beyond the scope of this post, but I will focus on one point – Botany.</p>
+<p>Forget everything you know for a minute and imagine you are a sunflower. Being a sunflower is not easy. It means you need to think deeply about how you are going to space out your florets (seeds) so that they can all receive sunlight, while growing as many seeds as you can. To that extent, an immediate thought will occur to you – <strong>what is the optimal way to allocate seeds?</strong></p>
+<p>Before thinking about the optimal solution, lets consider what you need to do. A good starting point would be to grow one seed right ahead of you, turn around a little, plant another, turn a little more, plant another, and so forth. This way, you are planting seeds all around you, right?</p>
+<p>Yes and no. The crucial point is this: <strong>the amount of a rotation between planting each seed</strong>. If you planted a seed, did a full turn, planted another, did a full turn, and planted another, you’d have a straight line until you couldn’t plant anymore. That is poor design, because you want to maximize the space used around you, and by turning that much you left a lot of space unused.</p>
+<p>I have a made a small visualization tool to help us pretend you are a sunflower. Try playing around with it and inputting different rotation amounts. Here are a few fun numbers to try: 0.10, 0.33, 0.501, or anything you want!</p>
+<p>NOTE: I built this using Unity and WebGL, and it will not work properly if you are on a mobile phone. Here is the source <a href="https://github.com/Capm96/Visualizations/blob/master/Golden%20Ratio/Assets/Scripts/Flower.cs">code</a> if you are interested.</p>
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted --> <!-- raw HTML omitted --></p>
+<h3 id="figuring-out-the-optimal-rotation-amount">Figuring out the optimal rotation amount</h3>
+<p>Well then, how do we figure out the optimal rotation amount? The truth is, there is a straight forward way of doing it. We can already eliminate every rotation amount that represents a rational number.</p>
+<p>Why? Because if you rotate by any amount which is rational, eventually you’d find yourself in a position with lines of seeds and empty space between them. To illustrate, try putting in rational rotation amounts, i.e. 0.25, 0.50, 0.75, 1, etc.</p>
+<p>But what about irrational numbers? The fascinating thing about irrational rotation amounts is that there is a positive relationship between how sparse the distribution is, and how irrational the number is. Here are three fun irrational numbers for you to try: π (3.1415), √2 (1.414), and Ф (0.610833).</p>
+<p>Notice that even though π is an irrational number, its configuration doesn’t seem very optimal. It gets better with √2, but it is the best with Ф.</p>
+<p><strong>Therefore, it seems that the optimal amount of a turn we must do should be the most irrational of all numbers. And that is precisely Ф.</strong></p>
+<h3 id="why-the-golden-ratio-is-the-most-irrational-of-all-numbers">Why the Golden Ratio is the most irrational of all numbers</h3>
+<p>Before we talk about Ф, let’s use π as an example.</p>
+<p>As you may know, π is infinite as far as we can tell. We can approximate it, and we can get a very close approximation, but it is never “enough”. This is usually the way irrational numbers go &ndash; they cannot be expressed as fractions, and go on for ever and ever.</p>
+<p>In any case, this means that we can define π for our purposes as something like: 3.14159265359</p>
+<p>However, I lied. We can also illustrate π as a fraction! But it must be a special kind of fraction.</p>
+<p>What we need is a “Continued Fraction&quot;. This is a fraction that goes on forever and ever, in the same way that π does. Instead of displaying π as decimal, we are displaying it as a fraction &ndash; and neither of them ever terminate.</p>
+<p>Here is what the beginning of π&rsquo;s continued fraction looks like:</p>
+<p><!-- raw HTML omitted --></p>
+<p>If you try to truncate, i.e. cut short, the continued fraction at some point, you will get an approximation of π. This approximation&rsquo;s accuracy depends on where you truncate the continued fraction.</p>
+<p>For instance, imagine we truncate the continued fraction above right after the &ldquo;+&rdquo; sign next to the 3. We would truncate it at the very beginning, and we would end up with 3 &ndash; which is close to π, but we can do better.</p>
+<p>If we truncate it after the 1/7, we would get 3 + (1/7) = 3.14&hellip; this is already a better approximation, which means truncating the fraction here would yield a closer approximation.</p>
+<p>The question is then, at which point could we truncate this continued fraction to get a very good approximation? And the answer is at the point which that particular fraction does not add too much accuracy &ndash; in other words, look for a fraction there with a very large denominator.</p>
+<p>The 1/292 suits our needs. This means that if we truncate the continued fraction at that point, the following fractions will not add too much accuracy, because this fraction (1/292) was already extremely accurate &ndash; meaning that everything that preceded this was already a good approximation to π.</p>
+<p>Therefore, it seems we can approximate irrational numbers by truncating them at specific points in their continued fractions, and the fraction at which we truncate them helps us determine the degree of accuracy of the irrational number at that point. As we saw, for π, we don&rsquo;t need to go very far to get a really good approximation &ndash; when the continued fraction reaches the 1/292 fraction, π is already well-approximated.</p>
+<p>Now lets take a look at the continued fraction for Ф.</p>
+<p><!-- raw HTML omitted --></p>
+<p>Do you notice anything different from π’s?</p>
+<p>The fractions are all the same! There is no “best” point to truncate the continued fraction at, because all of the fractions have exactly the same denominator. This means that unlike π, which we could approximate early on, Ф has no early approximation &ndash; every fraction adds as much accuracy as the previous.</p>
+<p>Because of this, Ф is the most irrational of all numbers.</p>
+<p>Also, if you go back to the visualization and count the number of spirals in the 0.618033 rotation, you will get a Fibonacci number. In fact, these Fibonacci Numbers are present in a plethora of configurations within nature. So is Ф.</p>
+<p>This post illustrated just one way in which Nature, the Fibonacci Numbers, and the Golden Ratio are interlinked. There are so many other incredible examples which I have not covered in this post, but which I encourage you to search.</p>
+<h3 id="closing-thoughts">Closing thoughts</h3>
+<p>I find it remarkable that such a seemingly uneventful number is so omnipresent in our world. It is not a coincidence that sunflowers have a Golden Ratio configuration &ndash; it is simply the best way to do it. How could it not be? As we saw, for one very specific example, it is the optimal solution to a problem.</p>
+<p>The beauty of all of this is that we had absolutely nothing to do with it &ndash; it was nature herself who adjusted the properties of the universe to maximize her utility. None of this was random. There are a set of rules governing our reality and everything must abide it, from seeds to galaxies.</p>
+<p>As I mentioned earlier, languages are human constructs, whereas mathematics is a built-in feature of the universe itself. There is no such thing as inventing mathematics, there is only discovery, because all of its inventions are already done &ndash; it is only up to us to figure it out now, one sunflower at a time.</p>
+<p><!-- raw HTML omitted --> <!-- raw HTML omitted --></p>
+<h3 id="sources">Sources:</h3>
+<p><a href="https://www.youtube.com/watch?v=sj8Sg8qnjOg">The Golden Ratio (why it is so irrational)</a></p>
+<p><a href="http://algorithmicbotany.org/papers/abop/abop-ch4.pdf">Algorithmic Botany</a></p>
+<p><a href="https://www.livescience.com/37704-phi-golden-ratio.html">What is the Golden Ratio?</a></p>
+<p><a href="https://www.youtube.com/watch?v=ahXIMUkSXX0">Doodling in Math</a></p>
+<p><a href="http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibmaths.html">The Mathematical Magic of the Fibonacci Numbers</a></p>
+<p><a href="http://jwilson.coe.uga.edu/EMT668/EMAT6680.2000/Burrell/Assignment12/goldenratioproof.html">Golden Ratio Proof</a></p>
+<p><a href="https://io9.gizmodo.com/15-uncanny-examples-of-the-golden-ratio-in-nature-5985588">Other places where Ф is present</a></p>
+<p><a href="https://www.google.com/search?q=sunflowers&amp;client=firefox-b-d&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwih04zRiMTiAhUMErkGHRLeAl4Q_AUIDigB&amp;biw=1536&amp;bih=767#imgrc=HPHoWJcTU7QxDM:">Where I got the picture for this post</a></p>
+
+    </article>
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+    
+
+<section id="articleNext" class="section nartrow">
+    <h3 class="footer-next-heading">More articles from My New Hugo Site</h3>
+    <div class="footer-spacer"></div>
+    <div class="next-articles-grid" numberOfArticles={numberOfArticles}>
+        <div class="post-row">
+            
+                <a href="capm96.github.io/post/etfs/" class="article-link"
+                 id="article-link-bigger">
+                    <div>
+                        <div class="image-container">
+                            <img src="" class="article-image" />
+                        </div>
+                        <div>
+                            <h2 class="article-title">
+                                Money Boats
+                            </h2>
+                            <p class="article-excerpt">
+                                
+                            </p>
+                            <div class="article-metadata">
+                                September 24, 2020 · 24 min read
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="capm96.github.io/post/blackholes/" class="article-link"
+                >
+                    <div>
+                        <div class="image-container">
+                            <img src="/images/sunflower.jpg" class="article-image" />
+                        </div>
+                        <div>
+                            <h2 class="article-title">
+                                Spaghetti and Infinity
+                            </h2>
+                            <p class="article-excerpt">
+                                
+                            </p>
+                            <div class="article-metadata">
+                                February 24, 2020 · 25 min read
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+        </div>
+    </div>
+</section>
+
+</section>
+
+
+ <script src="/capm96.github.io/js/progressBar.js"></script>
+
+        
+        <div class="footer-gradient"></div>
+    <div class="section narrow">
+      <div class="footer-hr"></div>
+      <div class="footer-container">
+        <div class="footer-text">
+          © 2020 My New Hugo Site
+        </div>
+        <div class="social-icon-outer">
+    <div class="social-icon-container">
+        
+    </div>
+</div>
+    </div>
+</div>
+
+    </div>
+
+    
+    <script src="/capm96.github.io/js/prism.js"></script>
+</body>
+
+</html>

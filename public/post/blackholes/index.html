@@ -1,0 +1,555 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/images/favicon.svg">
+    
+    <link rel="stylesheet" href="/capm96.github.io/scss/global.min.febf67ca94390198daa11693993dfeaabba2e6affbd40f291ab5081feac1bddd.css">
+    
+    <link rel="stylesheet" href="/capm96.github.io/css/prism.css" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+    
+
+ 
+
+
+
+
+
+
+	
+
+
+
+
+<title>Spaghetti and Infinity | My New Hugo Site</title>
+<meta name="description" content="This is a meta description">
+<meta property="og:title" content="Spaghetti and Infinity | My New Hugo Site">
+<meta property="og:site_name" content="My New Hugo Site">
+<meta property="og:description" content="This is a meta description">
+<meta property="og:url" content="capm96.github.io/post/blackholes/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content='/images/sunflower.jpg'><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Spaghetti and Infinity | My New Hugo Site">
+
+	<link rel="canonical" href="capm96.github.io/post/blackholes/">
+
+
+	<meta name="twitter:description" content="This is a meta description">
+<meta name="twitter:image" content="/images/sunflower.jpg">
+<meta property="article:published_time" content="2020-02-24T18:18:08&#43;00:00">
+	<meta property="article:updated_time" content="2020-02-24T18:18:08&#43;00:00">
+
+
+
+    </head>
+
+
+<body class="line-numbers">
+
+    
+    <script src="/capm96.github.io/js/initColors.js"></script>
+
+    <div class="layout-styled">
+
+        <Section class="section">
+  <div class="nav-container">
+    <a class="logo-link" href="/">
+      <div id="logo-desktop">
+        <svg
+        width="192"
+        height="23"
+        viewBox="0 0 192 23"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="Logo__Desktop"
+      >
+        <g clipPath="url(#clip0)">
+          <path
+            d="M120.941 6.15477H122.453V2.83255L124.114 2.44922V6.15477H126.713V7.30477H124.114V16.377C124.114 17.314 124.54 17.7826 125.435 17.7826C125.925 17.7826 126.478 17.6335 126.904 17.4205L127.181 18.4214C126.606 18.7835 125.861 18.9964 124.86 18.9964C123.539 18.9964 122.432 18.3788 122.432 16.5261V7.30477H120.92V6.15477H120.941Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M131.739 7.77334C132.825 6.70852 134.273 5.89926 135.764 5.89926C137.723 5.89926 138.937 6.94278 138.937 9.17889V17.6122L140.555 17.8465V18.7409H137.233V9.58352C137.233 7.9863 136.616 7.30482 135.338 7.30482C134.166 7.30482 132.74 8.0076 131.739 8.90204V17.5909L133.442 17.8039V18.7196H128.416V17.8039L130.078 17.5909V1.29926L128.374 1.04371V0.0214844H131.739V7.77334V7.77334Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M141.854 12.4374C141.854 7.6883 143.92 5.89941 146.731 5.89941C149.648 5.89941 151.267 7.64571 151.267 11.9689V12.629H143.6C143.621 16.3772 144.686 17.8253 147.284 17.8253C148.605 17.8253 149.584 17.3994 150.5 16.7818L151.096 17.6124C150.01 18.5068 148.754 18.9966 147.008 18.9966C143.941 18.9753 141.854 17.2929 141.854 12.4374ZM143.621 11.5216H149.521C149.521 8.34849 148.754 6.98552 146.709 6.98552C144.857 6.98552 143.771 8.2633 143.621 11.5216Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M162.682 7.85849C163.768 6.70849 165.024 5.87793 166.515 5.87793C168.474 5.87793 169.646 6.92145 169.646 9.15756V17.6335L171.286 17.8677V18.6983H167.963V9.68997C167.963 8.07145 167.388 7.32608 166.089 7.32608C164.918 7.32608 163.789 8.02886 162.81 8.9233V17.6122L164.449 17.8464V18.7409H161.127V9.68997C161.127 8.07145 160.552 7.32608 159.253 7.32608C158.082 7.32608 156.953 8.02886 155.973 8.9233V17.6122L157.677 17.8464V18.7409H152.651V17.8464L154.312 17.6122V7.47515L152.609 7.2196V6.15478H155.654L155.888 7.85849C156.974 6.72978 158.188 5.89923 159.679 5.89923C161.212 5.87793 162.277 6.51682 162.682 7.85849Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M171.925 12.4374C171.925 7.6883 173.991 5.89941 176.802 5.89941C179.719 5.89941 181.338 7.64571 181.338 11.9689V12.629H173.671C173.692 16.3772 174.757 17.8253 177.355 17.8253C178.676 17.8253 179.655 17.3994 180.571 16.7818L181.167 17.6124C180.081 18.5068 178.825 18.9966 177.079 18.9966C174.012 18.9753 171.925 17.2929 171.925 12.4374ZM173.692 11.5216H179.591C179.591 8.34849 178.825 6.98552 176.78 6.98552C174.928 6.98552 173.863 8.2633 173.692 11.5216Z"
+            fill="#7A8085"
+          />
+          <path
+            d="M183.084 18.0383V15.504H184.234L184.618 17.442C185.278 17.7189 185.789 17.8892 186.811 17.8892C188.664 17.8892 189.558 17.0374 189.558 15.5466C189.558 14.0559 188.834 13.4809 186.79 12.8846C184.831 12.2883 183.382 11.4577 183.382 9.13645C183.382 7.39016 184.639 5.89941 187.195 5.89941C188.664 5.89941 189.835 6.17627 190.687 6.68738V9.15775H189.558L189.132 7.34756C188.579 7.09201 187.961 7.00682 187.258 7.00682C185.789 7.00682 184.852 7.7309 184.852 8.98738C184.852 10.3077 185.576 10.8189 187.365 11.3513C189.431 12.0115 191.156 12.7142 191.156 15.3976C191.156 17.7615 189.431 18.9753 186.79 18.9753C185.235 18.9753 183.957 18.6346 183.084 18.0383Z"
+            fill="#7A8085"
+          />
+          <path class="change-fill"
+            d="M38.3122 9.98811C38.3122 8.66774 37.9501 8.15663 36.9492 8.15663C36.1186 8.15663 35.0964 8.62515 34.3936 9.20015V16.9733L35.8418 17.165V18.6344H30.0918V17.165L31.5825 16.9733V8.24182L30.0918 7.92237V6.19737H33.9251L34.2446 7.64552C35.3733 6.55941 36.6298 5.87793 38.1418 5.87793C39.9946 5.87793 41.102 6.92145 41.102 9.07237V16.9733L42.5927 17.165V18.6344H38.3122V9.98811V9.98811Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M62.3982 17.1858V18.6553H56.0732V17.1858L57.564 16.9942V8.2627L56.0732 7.94326V6.21826H59.8427L60.226 8.17752C61.0779 6.85715 62.1427 5.94141 63.6973 5.94141C63.8677 5.94141 64.0594 5.9627 64.1871 6.0053L63.8251 8.94418C63.5483 8.81641 63.2501 8.77381 62.8668 8.77381C61.8871 8.77381 61.1418 9.05067 60.3751 9.71085V16.9516L62.3982 17.1858Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M76.7098 6.19733H78.0941V3.08807L80.5432 2.55566V6.21863H82.9709V8.0927H80.5432V15.6742C80.5432 16.5899 80.8839 16.9946 81.6293 16.9946C82.0978 16.9946 82.5876 16.8455 82.907 16.6751L83.3543 18.3575C82.758 18.6983 81.9061 18.9751 80.6709 18.9751C78.9672 18.9751 78.0941 18.1658 78.0941 16.0362V8.0927H76.7098V6.19733Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M90.4664 17.1648V18.6343H84.6738V17.1648L86.1646 16.9731V8.24167L84.6738 7.92222V6.19722H88.9757V16.9731L90.4664 17.1648ZM85.696 1.76759C85.696 0.787963 86.4627 0 87.4423 0C88.422 0 89.1886 0.766667 89.1886 1.76759C89.1886 2.72593 88.422 3.51389 87.421 3.51389C86.4627 3.51389 85.696 2.72593 85.696 1.76759Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M98.3251 7.90097V6.19727H103.053V7.92227L101.924 8.11393L98.3251 18.6556H95.663L92.064 8.09264L90.9991 7.92227V6.19727H96.2593V7.90097L95.0242 8.09264L96.7279 13.6084C97.0473 14.6519 97.1964 15.5037 97.3668 16.4834H97.388C97.5371 15.525 97.7714 14.5241 98.0482 13.5871L99.6668 8.07134L98.3251 7.90097Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M75.6867 17.1224C74.5793 17.1437 74.3664 16.952 74.3664 15.9724V9.79645C74.3664 6.96404 72.9821 5.87793 70.3201 5.87793C68.3821 5.87793 66.7423 6.45293 65.4219 7.28349L66.2312 9.02978C67.3599 8.45478 68.4673 8.09274 69.7238 8.09274C71.1932 8.09274 71.5552 8.88071 71.5552 10.265V11.0316V11.2233V12.7779V12.8844V16.1214C71.0867 16.6326 70.4052 17.0585 69.4469 17.0585C68.3821 17.0585 67.871 16.5261 67.871 15.0353C67.871 13.3103 68.5951 12.8205 70.4904 12.7779V11.2233C66.6358 11.2659 65.0386 12.4372 65.0386 15.2057C65.0386 17.8465 66.4867 18.9752 68.6589 18.9752C70.2136 18.9752 71.0654 18.315 71.7895 17.5696C72.0451 18.5705 72.833 18.9752 73.8978 18.9752C74.6645 18.9752 75.3886 18.7622 75.8571 18.5066L75.6867 17.1224Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M54.4968 17.1224C53.3894 17.1437 53.1764 16.952 53.1764 15.9724V9.79645C53.1764 6.96404 51.7922 5.87793 49.1301 5.87793C47.1922 5.87793 45.5523 6.45293 44.232 7.28349L45.0412 9.02978C46.1699 8.45478 47.2773 8.09274 48.5338 8.09274C50.0033 8.09274 50.3653 8.88071 50.3653 10.265V11.0316V11.2233V12.7779V12.8844V16.1214C49.8968 16.6326 49.2153 17.0585 48.257 17.0585C47.1922 17.0585 46.681 16.5261 46.681 15.0353C46.681 13.3103 47.4051 12.8205 49.3005 12.7779V11.2233C45.4459 11.2659 43.8486 12.4372 43.8486 15.2057C43.8486 17.8465 45.2968 18.9752 47.469 18.9752C49.0236 18.9752 49.8755 18.315 50.5996 17.5696C50.8551 18.5705 51.6431 18.9752 52.7079 18.9752C53.4746 18.9752 54.1986 18.7622 54.6672 18.5066L54.4968 17.1224Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M107.653 13.055H113.594V11.9476C113.594 7.47534 111.869 5.89941 108.803 5.89941C105.63 5.89941 103.628 7.79478 103.628 12.4161C103.628 17.1013 105.523 18.9966 109.058 18.9966C110.954 18.9966 112.231 18.5068 113.467 17.5272L112.657 16.0577C111.678 16.6753 110.868 17.0587 109.463 17.0587C107.546 17.0587 106.801 16.1855 106.63 14.0133C106.588 13.6939 106.567 13.0976 106.567 12.4587C106.567 12.054 106.567 11.6707 106.588 11.3726V11.3513C106.737 8.51886 107.397 7.60312 108.781 7.60312C110.4 7.60312 110.783 8.58275 110.783 11.3513H107.674V13.055H107.653Z"
+            fill="#000"
+          />
+          <path class="change-fill" d="M17.5907 20.2954H0V23H17.5907V20.2954Z" fill="#000" />
+          <path class="change-fill"
+            d="M0 7.96484V18.9537L5.38796 15.1843V11.7343L0 7.96484Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M17.5689 10.9463V0L12.1597 3.74815V7.13426L17.5689 10.9463Z"
+            fill="#000"
+          />
+          <path class="change-fill"
+            d="M17.5907 18.975L17.5694 12.288L0 0V6.62315L17.5907 18.975Z"
+            fill="#000"
+          />
+        </g>
+        <defs>
+          <clipPath id="clip0">
+            <rect width="191.156" height="23" fill="white" />
+          </clipPath>
+        </defs>
+      </svg>
+</div>
+<div id="logo-mobile" class="hidden">
+    <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+    width="23" height="23" viewBox="0 0 512.000000 512.000000"
+    preserveAspectRatio="xMidYMid meet">
+   <metadata>
+   Created by potrace 1.15, written by Peter Selinger 2001-2017
+   </metadata>
+   <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+   fill="" stroke="none">
+   <path d="M590 4383 l1 -738 756 -530 c698 -489 1151 -807 2618 -1837 l540
+   -380 3 748 c2 590 -1 751 -10 760 -7 7 -308 218 -668 470 -360 251 -1230 859
+   -1933 1351 -702 491 -1284 893 -1292 893 -13 0 -15 -92 -15 -737z"/>
+   <path d="M3887 4708 l-597 -412 0 -381 0 -381 597 -419 c328 -231 602 -421
+   610 -423 11 -3 13 204 13 1212 0 987 -2 1216 -13 1216 -7 0 -282 -186 -610
+   -412z"/>
+   <path d="M590 2135 c0 -910 3 -1225 11 -1225 10 0 343 231 1049 728 l155 109
+   0 389 0 388 -595 418 c-327 229 -601 417 -607 418 -10 0 -13 -251 -13 -1225z"/>
+   <path d="M590 320 l0 -310 1960 0 1960 0 0 310 0 310 -1960 0 -1960 0 0 -310z"/>
+   </g>
+   </svg>
+</div>
+      <span class="header-hidden">Navigate back to the homepage</span>
+    </a>
+    <div class="nav-controls">
+      <button id="copyButton" class="icon-wrapper">
+        <svg
+    class="icon-image"
+    width="24"
+    height="20"
+    viewBox="0 0 24 20"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    >
+    <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M2 5C2 3.34328 3.34328 2 5 2H14C15.6567 2 17 3.34328 17 5V9C17 10.6567 15.6567 12 14 12H10C9.44771 12 9 12.4477 9 13C9 13.5523 9.44771 14 10 14H14C16.7613 14 19 11.7613 19 9V5C19 2.23872 16.7613 0 14 0H5C2.23872 0 0 2.23872 0 5V9C0 10.4938 0.656313 11.8361 1.6935 12.7509C2.10768 13.1163 2.73961 13.0767 3.10494 12.6625C3.47028 12.2483 3.43068 11.6164 3.0165 11.2511C2.39169 10.6999 2 9.89621 2 9V5ZM7 11C7 9.34328 8.34328 8 10 8H14C14.5523 8 15 7.55228 15 7C15 6.44772 14.5523 6 14 6H10C7.23872 6 5 8.23872 5 11V15C5 17.7613 7.23872 20 10 20H19C21.7613 20 24 17.7613 24 15V11C24 9.50621 23.3437 8.16393 22.3065 7.24906C21.8923 6.88372 21.2604 6.92332 20.8951 7.3375C20.5297 7.75168 20.5693 8.38361 20.9835 8.74894C21.6083 9.30007 22 10.1038 22 11V15C22 16.6567 20.6567 18 19 18H10C8.34328 18 7 16.6567 7 15V11Z"
+      fill="#000"
+    />
+</svg>
+        <div id="toolTip" class="tool-tip " >
+            copied
+        </div>
+        <input id="copyText" style="opacity: 0;" type="text" class="tool-tip " />
+      </button>
+
+      <button id="themeColorButton" class="icon-wrapper"> 
+        <div id="sunRays" class="sun-rays"></div>
+        <div id="moonOrSun" class="moon-or-sun"></div>
+        <div id="moonMask" class="moon-mask"></div>
+      </button>
+    </div>
+</div>
+</Section>
+
+
+<script src="/capm96.github.io/js/toggleLogos.js"></script>
+
+
+<script src="/capm96.github.io/js/toggleColors.js"></script>
+
+
+<script src="/capm96.github.io/js/copyUrl.js"></script>
+
+        
+
+<section class="section narrow">
+
+    <section id="articleHero" class="section narrow">
+    <div class="article-hero">
+        <header class="article-header">
+            <h1 class="article-hero-heading">Spaghetti and Infinity</h1>
+            <div class="article-hero-subtitle">
+                <div class="article-meta">
+                    
+
+
+    <div class="article-coauthors-container">
+        
+        <span id="collapsedCoauthors" class="article-coauthors-collapsed">
+            <div class="article-coauthors-list" style="width: 0px;">
+                
+            </div>
+            <strong class="article-coauthors-name-container">
+                
+            </strong>
+            <div class="article-coauthors-icon-container">
+                <svg
+width="17"
+height="17"
+viewBox="0 0 17 17"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+>
+    <path style="fill: var(--primary);"
+      d="M5.3209 8.86719L8.50026 12.0396L11.6796 8.86719L12.6563 9.84385L8.50026 13.9999L4.34424 9.84385L5.3209 8.86719Z"
+    />
+    <path style="fill: var(--primary);"
+      d="M11.6791 8.13281L8.49974 4.96039L5.32039 8.13281L4.34373 7.15615L8.49974 3.00013L12.6558 7.15615L11.6791 8.13281Z"
+    />
+</svg>
+            </div>
+        </span>
+
+        <ul id="uncollapsedCoauthors" class="article-coauthors-list-open hidden">
+            <div id="uncollapsedAction" class="article-icon-open-container">
+                <svg
+width="17"
+height="17"
+viewBox="0 0 17 17"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+>
+    <path style="fill: var(--primary);"
+      d="M11.6796 14L8.50023 10.8276L5.32088 14L4.34422 13.0233L8.50023 8.86732L12.6563 13.0233L11.6796 14Z"
+    />
+    <path style="fill: var(--primary);"
+      d="M5.32041 3L8.49977 6.17243L11.6791 3L12.6558 3.97666L8.49977 8.13268L4.34375 3.97666L5.32041 3Z"
+    />
+</svg>
+            </div>
+            
+        </ul>
+    </div>
+
+
+
+<script src="/capm96.github.io/js/collapseAuthors.js"></script>
+                    February 24, 2020
+                    • 25 min read
+                </div>
+            </div>
+        </header>
+        
+        <div class="article-hero-image" id="ArticleImage__Hero">
+            <img src="/images/sunflower.jpg">
+        </div>
+        
+    </div>
+</section>
+
+
+    <aside id="progressBar" class="aside-container">
+    <div class="aside-align">
+      <div>
+        <div class="overlap-container">
+        </div>
+      </div>
+    </div>
+
+    <div class="progress-container" tabIndex={-1}>
+        <div class="track-line" aria-hidden="true">
+            <div id="progressIndicator" class="progress-line"></div>
+        </div>
+    </div>
+</aside>
+
+
+    <article  id="articleContent" class="post-content" style="position:relative;">
+        <p>Out there in the dark sky lies a gentle monster that would seem fictional if it were not all too real. But perhaps monster is too harsh a word, for it means no harm. Its only quarrel is with reality itself, in an attempt to push the fabric of everything to the limit.</p>
+<p>There are things in the world that are beyond perplexing &ndash; spiritual almost. Things that when thought about carefully will take one to a place of genuine awe. One of such things, in my opinion, is our consciousness. On one hand, it is the beginning of everything, the turning on of the lights, the definition of life itself. On the other hand, it is perhaps the most complex object in the entire universe, a conglomeration of atoms that sum up to something much, much greater than their individual parts.</p>
+<p>This experience itself, of my writing or your reading, is a product of such consciousness, a hidden result of a process we simply do not fully understand yet. All it takes is a look inwards to realize the infinite marvel that resides in something which cannot even be touched! In short, it is everything.</p>
+<p>The gentle monster in the dark sky is another of such awe-inspiring components of reality. It is another thing that makes reason leave the steering wheel and replaces it with the limitless potential of imagination.</p>
+<p>This gentle monster is a black hole. It is a truly remarkable feat of human development that we are even able to talk about such things. From mere hypothesis to objective parts of the universe, black holes have fascinated people since they were first conceived in our minds, and still continue to fascinate us today, when we can finally see them. For all their simplicity, mystery, and grandiosity, black holes are some of the most fascinating places on the entire universe.</p>
+<h3 id="the-recipe-for-a-star">The recipe for a star</h3>
+<p>A very long time ago, our universe began in a profound and interesting way. In less time than you can blink your eyes, the universe went from being smaller than the smallest thing you can think of, to being bigger than the biggest thing you can think of. This unimaginable expansion of spacetime was the Big Bang – the moment of birth of the universe itself.</p>
+<p>Unlike how it is sometimes depicted, the Big Bang was not an explosion. It was more the case where the &ldquo;edges&rdquo; of the universe were expanding very rapidly. There was nowhere for an explosion to happen because there was no space before the Big Bang. It was the creation of the canvas which everything lays on, rather than the splashing of some paint on top of the canvas.</p>
+<p>The Big Bang brought along the ride a substantial, but fixed, amount of matter (atoms). <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> When the initial expansion slowed down a bit, the atoms could finally catch a break and go dancing, and they began attracting each other through gravity. The same force that keeps us from floating into space today is the same one who first brought together the atoms at the beginning of time.</p>
+<p>When a lot of these atoms got lumped together through gravity, they began heating up. In general, things get warmer as you compress it, and the little particles at the beginning of the party were no different.</p>
+<p>Eventually, there were so many atoms under such incredible temperatures that something interesting began happening: the atoms started fusing to become newer, heavier atoms. Two Hydrogen atoms, for example, will fuse and become one Helium atom, releasing a massive amount of energy throughout the process. This fusing of atoms is called nuclear fusion, and it is the engine that powers all the stars in the universe.</p>
+<p>Our sun is but a gargantuan ball of gas (mostly Hydrogen), who&rsquo;s core is undergoing nuclear fusion at this very moment, releasing a tremendous amount of energy in the process and allowing us to live the way we do. That beautiful warmth on a sunny summer day, and that vital light that feeds life itself – they are both products of nuclear fusion happening in our sun&rsquo;s belly!</p>
+<p>A star like our sun will maintain this process of nuclear fusion for a very long time. However, it does not last forever. <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<h3 id="turning-inwards">Turning inwards</h3>
+<p>Someone named Albert once came up with an equation: E=MC<!-- raw HTML omitted -->2<!-- raw HTML omitted -->.</p>
+<p>This equation states that energy = mass * the speed of light<!-- raw HTML omitted -->2<!-- raw HTML omitted -->. The equation has so many beautiful repercussions worthy of their own discussions. For now, we are only interested in one, which states that <strong>matter and energy are the same thing, just in different forms.</strong></p>
+<p>The sun exposes this concept magnificently.</p>
+<p>In the sun’s core, there is a lot of Hydrogen. Hydrogen is the lightest and simplest atom that exists (it only has one proton and one electron). When two Hydrogen atoms undergo nuclear fusion, they become a single Helium atom, which is the next lightest and simplest atom on the periodic table. <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></p>
+<p>This seemingly simple fusion, however, is literally what allows us to live.</p>
+<p>Let’s say that a Hydrogen atom weighs 1 kilo (a very fictional number for a very simplified demonstration). We should expect the following to happen:</p>
+<p>Hydrogen (1 kilo) + Hydrogen (1 kilo) = Helium (2 kilos).</p>
+<p>But, the newly created Helium <em>does not weigh 2 kilos</em>. It weighs less (about 0.7% so).</p>
+<p>Then, if 1 + 1 = &ldquo;something that is not 2 but almost so&rdquo;, where did that missing matter go?</p>
+<p>It went into the warmth of our sunny days! Into the green of the trees, the blue of the skies, and the white of all light that we have so vitally chased after here on Earth since the beginning of life itself.</p>
+<p>As E=MC<!-- raw HTML omitted -->2<!-- raw HTML omitted --> goes, energy and matter are the same thing – just in different forms. <strong>The missing matter from our Hydrogen + Hydrogen fusion was converted into energy – the energy we receive from the sun.</strong></p>
+<p>Nuclear fusion releases an unimaginable amount of energy. So much that it can cause skin burns even from 150 million kilometers away! It is extremely counter-intuitive to think about how big the sun is because our brains are not equipped for it.</p>
+<p>However, think of a lit candle. The candle burns at the top, and if you put your finger on it, your finger will burn. If you move your finger away, it will not burn your finger, but it will heat it. You can control the temperature on your finger by moving it closer or farther from the candle. There is a distance from the candle where your finger feels as warm as your finger would if you just put your hand out on a sunny day.</p>
+<p>Let’s say that distance between your finger and the candle (which makes your finger feel as warm as it would on a sunny day) is 5 centimeters. How extraordinary would something have to be to warm your finger the same way, but from 150 million kilometers away?</p>
+<p>The sun is <em>30 billion times</em> as far away from you as that candle, yet they would both make your finger feel the same warmth. How gigantic of a ball of fire must exist for that to be true? A massive one, who has a lot of Hydrogen atoms in it, who are constantly being fused to become Helium atoms, and who release a lot of energy in the process!</p>
+<p>In any case, the sun is incredible. It also has a very spherical shape, which we have come to recognize since the beginning of time. This is interesting because it is not so easy to maintain such a nicely spherical shape when you are constantly undergoing such serious releases of energy &ndash; there needs to be something to balance that outward release of energy. Otherwise the sun would just explode!</p>
+<p>This balancing force comes from the sun&rsquo;s own gravity.</p>
+<p>The sun’s gravity maintains the entire star in check. The nuclear fusion, and subsequent massive release of energy, is trying to push everything away. Gravity is trying to pull everything in. The result is the stable spherical star that keeps us warm every day.</p>
+<p>However, nuclear fusion cannot last forever&hellip;</p>
+<p>Then, if usually we have:</p>
+<p>nuclear fusion + gravity = stability</p>
+<p>What happens when we only have:</p>
+<p>nada + gravity = ?</p>
+<p>The answer depends on how massive the star is. Some stars will explode in magnificent supernovas, some stars will become smaller versions of themselves, and some stars, the largest ones, will become black holes.</p>
+<p>After a certain threshold <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> there is so much matter that</p>
+<p>nada + gravity = unstoppable inward collapse.</p>
+<p>With no nuclear fusion to push everything away, gravity keeps pulling the matter in and in and in, into an ever-smaller point in space. The star begins to viciously implode. This is an unstoppable force, and the matter will continue to collapse at extremely high speeds into a denser and denser region of space.</p>
+<p>Eventually, this process reaches a point of such absurd implications that the universe itself glitches. This is when a black hole is born.</p>
+<p><!-- raw HTML omitted --></p>
+<ul>
+<li>Figure 1.1 - <a href="https://www.reddit.com/r/space/comments/akeuhv/nasas_404_error_message/">NASA&rsquo;s 404 message</a></li>
+</ul>
+<h3 id="let-there-be-dark">Let there be dark</h3>
+<p>A black hole is black because it emits no visible light. It emits no light because it does not allow for light to escape its grip!</p>
+<p>If you throw a ball up in the air, it will go up, lose speed, stop (momentarily) then fall back downwards (gravity is pulling). If you had Hulk’s strength and threw the ball up, it would keep going up and up and up until it escaped Earth, and then it would just fly into space.</p>
+<p>What is the difference between a ball that goes up and down, and a ball that only goes up?</p>
+<p>In the case of the first, the ball was unable to break the Earth’s escape velocity. This means that it did not go fast enough, for long enough, to escape the Earth’s gravitational pull. Gravity was stronger than the force pushing the ball up. In the second case, however, it went so fast for a sufficiently long enough time that it escaped Earth’s gravity and flew outwards.</p>
+<p>The Earth’s escape velocity is around 11 kilometers per second. This means that if something stays above this speed for a certain amount of time, it will leave the Earth. Rockets must achieve such speeds to be able to leave the planet.</p>
+<p>A black hole, however… has an immeasurable escape velocity. It does not matter if you are Hulk throwing a ball upwards, or if you have the fastest rocket in the universe – doing such things in a black hole will get you nowhere.</p>
+<p>Not even light can escape from it, and light travels at 300,000 km per second, which is more than 27 thousand times faster than the Earth’s escape velocity!</p>
+<p>The point at which the gravity becomes so strong that light cannot escape is called the event horizon. The event horizon is the line which afterward, all becomes dark. It is the final cross from which there is no coming back from. In the picture below, it would be the edge of where the bright things become dark in the circle. If you happen to cross that line, there appears to be no coming back.</p>
+<p><!-- raw HTML omitted --></p>
+<ul>
+<li>Figure 1.2 - <a href="https://phys.org/news/2019-01-x-ray-pulse-event-horizon-black.html">Event horizon artist&rsquo;s impression</a></li>
+</ul>
+<p>As a side note, this bright stuff around the black hole is an accretion disk. These are the remains of stars and other cosmic objects that got too close to the black hole and are now being sucked in. Large clouds of matter can surround a black hole, and they are pulled in very fiercely, which heats them substantially, making them look so bright.</p>
+<p>In any case, this is what a black hole looks like. This gentle monster in the night sky is a massive star, who&rsquo;s nuclear fusion stopped. With nothing to counteract the pulling force from gravity, the star kept collapsing inwards. Eventually, the star reached a point of such incredible gravity that not even light, the fastest thing in the universe, could escape from it.</p>
+<p>If we were to cross the event horizon, we would be pulled by the black hole’s gravity towards the singularity. The singularity is where all that matter from the inward collapsing star goes to. It is a really weird place.</p>
+<p>Unlike most things on Earth which we are used to, the singularity is not so easily located, because it is infinitely small. Yet, it contains all the matter from that massive star! This place is a tiny point in space that defies our current understanding of things – it is beyond our normal intuitions and makes no sense.</p>
+<p>Open Google up, or find any calculator, and try to type “1/0”. Dividing 1 by 0 is generally met with an error message.</p>
+<p><strong>But dividing by zero is exactly what happens in a singularity!</strong></p>
+<p>If you were trying to calculate your body density, for instance, you would divide your mass by your size.</p>
+<p>We can try to calculate the density of the singularity in the same way. We know its mass (a lot) and we know its size (zero). Hence, the singularity is a place of apparent infinity density and the universe along with our reason goes kaput.</p>
+<h3 id="further-oddities">Further oddities</h3>
+<p>We know a black hole is part of our sun’s family. It was once also a star, a big one, shining bright throughout the universe. Due to its incredible size, once it reached the end of its nuclear fusion lifecycle, it had no more energy to counteract the tremendous gravity that it exerted, which prompted it to fall inwards on itself.</p>
+<p>This fall was unstoppable, and there was enough matter to create a point in space which makes no sense at all (a lot of matter in an infinitely small space, i.e. 1/0), a point of such magnitude that it breaks spacetime itself. The gravity around that region is so strong that not even the fastest things in the universe can escape from it.</p>
+<p>The star is still a sphere &ndash; delineated by the event horizon, which is the final line. Once we cross that, there is no coming back. Absolutely anything that crosses that line will get sucked in by the black hole.</p>
+<h3 id="seeing-the-back-of-your-head">Seeing the back of your head</h3>
+<p>The satellites that bless us with the GPS are in a stable orbit around Earth. That means that they keep going around the Earth in a balanced manner – they are neither falling inwards and crashing down nor flying outwards and floating in space. To maintain this balance, they need to fly around the Earth at a speed of approximately 11,000 kilometers per hour – more than ten times faster than a commercial airplane.</p>
+<p>If these satellites slowed down, then gravity would pull them downwards faster than their speed “pushes” them forward, and they would crash. If they sped up, then gravity would not be able to hold them down, and they would fly away.</p>
+<p>If we substituted the satellite for a light beam, it would immediately fly out into space, since its speed is 300,000 kilometers per second! The Earth’s gravity would not come close to holding this down into a stable orbit.</p>
+<p>In a black hole, however, the gravity is so astronomically large than even light itself could orbit the black hole. At a certain distance beyond the event horizon (where gravity becomes too strong and light can’t escape), there is a point where light can orbit the black hole.</p>
+<p>So if you could, hypothetically, find yourself in that orbit, you would look straight ahead and see the back of your head, as the photons that came from the back of your head went into an orbit around the black hole and into your eyes.</p>
+<p>Fortunately (or unfortunately, depending on your keenness to see the back of your head) this is only a hypothesis – the orbit where photons could travel in a circle would be much too strong for humans, and we would fall in and become spaghetti.</p>
+<h3 id="spaghettification">Spaghettification</h3>
+<p>The Earth and Moon have been interwoven in a cosmic waltz for eons. Bound by gravity, these two heavenly bodies will be locked together in motion through space for a long time.</p>
+<p>One product of this dance is that we only see one side of the moon – always. The references to the “Dark Side” of the moon revel on this fact to some extent. There is the side which we always see, and there is this dark side which we can’t see (although it is not really dark, because the sun shines on it too, we just can’t see it because it is facing away from us). <sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
+<p>The moon also creates some interesting effects for us down here on Earth. One is the tides. We have all heard of it some way or another before – “Don’t go in the water now! It is high tide.”</p>
+<p>Every day the water levels rise and fall. The reason they rise and fall is that the Moon’s gravity on Earth is not evenly distributed. The side of the Earth which is closest to the Moon will feel a stronger gravitational pull than the side of the Earth which is far away from the moon. This happens because gravity depends on distance, and the Earth is quite large, so the gravity felt at either side varies substantially.</p>
+<p>In general, tides exist everywhere. Even now, on Earth, our feet are feeling a stronger gravitational pull than our heads, but the difference is too small to notice it.</p>
+<p>Near a black hole, however, the gravitational forces are so severe that an object does not have to be as large as the Earth to feel a difference in gravity between the part which is closer and the part which is farther from the black hole.</p>
+<p>To that extent, as a person would be falling in (feet first) their feet would begin to be pulled harder than their heads. A lot harder. This would elongate and stretch them, turning them into an ever-thinner straw, starting from the feet. This process would only get more explicit and dramatic as they kept falling in, until their feet became single atomic lines and what once was a human is now an atom pasta. This would keep happening all the way up to their heads. “Spaghettification” is a legitimate scientific term.</p>
+<p><!-- raw HTML omitted --></p>
+<ul>
+<li>Figure 1.3 - <a href="https://www.npr.org/2013/12/27/256897343/stretch-or-splat-how-a-black-hole-kills-you-matters-a-lot?t=1601497420860">Illustration of Spaghettification</a></li>
+</ul>
+<h3 id="theories-about-what-lies-inside">Theories about what lies inside</h3>
+<p>There will always be people who claim that something is impossible. Doubt and skepticism have been omnipresent throughout history, and interesting ideas are always often met with a “this will never happen”.</p>
+<p>Light without fire, putting a man on the moon, talking to someone in Australia from your home in New York… if we go back enough, a lot of what we have today seemed like an impossibility at some point.</p>
+<p>To that extent, I will not say that it is impossible to know what is inside a black hole, but I will say that our current understanding of physics makes it a very difficult challenge to get around.</p>
+<p>The main issue is the escape velocity, which literally will not let anything escape. The grip of a black hole beyond the event horizon is final. There is nothing, as far as we know, which can escape it.</p>
+<p>To that extent, there is no way of sending something in and somehow getting information back. So how can we know what is inside?</p>
+<p>The best we can do for the moment is to create a hypothesis, and eventually test them somehow when our technology is sufficiently advanced. There are a few interesting theories about what lies inside.</p>
+<p>Some say that at the singularity lies another universe. Because spacetime is a fabric which can be bent and twisted, the singularity, with its infinite density, essentially pokes through this fabric and goes out somewhere else, into another universe. It could be, for instance, that the Big Bang was the “other side” from a black hole. This is an interesting idea but that would still leave a lot on the table. Have some fun and think this through &ndash; if indeed the Big Bang was the &ldquo;other side&rdquo; of a black hole in another universe, then what created <em>that</em> universe? Another black hole? And down the rabbit hole we go, Alice.</p>
+<p>Alternatively, it could be that the singularity pokes through the fabric of spacetime, but just into another point into our own universe. On the other side, the black hole could have a counterpart, a white hole, which ejects all the matter from the other side. We have no evidence of such things yet.</p>
+<p>Other theories allude to the black hole being a time machine (although not any black hole will do this – it needs to possess certain characteristics) which would allow you to get in and get out at a different point in time. Similarly, the black hole could also be a &ldquo;space&rdquo; machine, like a wormhole, that could allow you to get in and out in a totally different place in the universe.</p>
+<h3 id="seeing-what-cant-be-seen">Seeing what can&rsquo;t be seen</h3>
+<p>How do you see something which emits or reflects no light? This is difficult to do.</p>
+<p>Imagine for instance that you are in your room, and you have a black piece of paper that reflects no light. You throw this piece of paper around randomly and turn the lights off in your room. How would you know where the paper is? It emits no light, and it reflects no light, and its surroundings are as dark as it is.</p>
+<p>Luckily, visible light (i.e., the stuff that we see in everyday life) is not the only type of light that exists. Visible light is only a tiny portion of the electromagnetic spectrum, which is a range of wavelengths that light exists under.</p>
+<p><!-- raw HTML omitted --></p>
+<ul>
+<li>Figure 1.4 - <a href="https://www.google.com/search?q=electromagnetic+spectrum&amp;sxsrf=ALeKk03sUAJ04EFmESOh3OFYIJA8pERMMA:1583083392461&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwi8noea5fnnAhWMh1wKHcV0B_IQ_AUoAXoECBAQAw&amp;biw=1280&amp;bih=616#imgrc=fF5lcgJ2kcyLlM">Electromagnetic spectrum</a></li>
+</ul>
+<p>An x-ray, for instance, works because it focuses on different wavelengths than the ones that your skin emits light in. This means that it can essentially bypass the light that your skin emits, and focus only on the light that your insides emit.</p>
+<p>Similarly, the infrared wavelength is the wavelength which our bodies exert light under. Our bodies have a temperature, and that temperature is warm enough to release some infrared waves. When we see those action movies where the military is wearing the goggles which allow them to see people behind buildings and such, they are leveraging this concept. They bypass the light that the building is emitting, and focus only on the infrared, which the humans are emitting. This way they can see people behind buildings.</p>
+<p>We evolved to see visible light because that is what the sun emits most strongly. Because of that, we cannot make sense of all the other wavelengths that exist, but they are all around us, all the time. The radio waves that give us internet, the microwaves that heat up our food, the ultraviolet that burns us, the x-ray that tells us we broke our bones, and the gamma rays that turn us into the Hulk &ndash; they are all around us all the time, we just can&rsquo;t see them!</p>
+<p>In any case, we can’t see a black hole through visible light, but we can see it through the infrared. This happens because near black holes, generally, there are other remains of stars that are being pulled. As this material falls in a black hole, it heats up, releasing energy and heat in the infrared wavelength. We can create powerful machines to capture this wavelength and convert it into something we can see. This is exactly what was done in the header picture on this post.</p>
+<p>I can’t do enough justice to how much effort went into taking that picture. A lot of brilliant people were involved in a global collaborative effort to push science to new frontiers. It is amazing that we can witness such a thing, so early into our human history. This was a truly remarkable feat of civilization.</p>
+<p>Another interesting way of inferring the existence of black holes is by measuring gravitational waves.</p>
+<p>Imagine yourself near a lake. A very still and calm lake. Then you throw a rock in it and watch how the ripples flow around where the rock fell. These waves were created by the rock falling in the water and disturbing the water.</p>
+<p>Gravitational waves are similar in concept to the waves in the lake. Except that they don’t permeate through water, but through spacetime itself. The fabric behind everything is shaken and stretched when events massive enough happen – in particular, when two black holes are colliding.</p>
+<p><!-- raw HTML omitted --></p>
+<ul>
+<li>Figure 1.5 - <a href="https://giphy.com/explore/gravitational-waves">Gravitational waves illustration</a></li>
+</ul>
+<p>In another extraordinary feat of engineering, some brilliant people were able to detect such gravitational waves. The instrument they used for this is called LIGO (Laser Interferometer Gravitational-Wave Observatory). The first observation was announced in 2016.</p>
+<p>LIGO is an incredibly beautiful piece of engineering. The idea is to create some pipelines in very remote and isolated areas across the world. Then, people fire lasers within these pipelines. Lasers are extremely accurate, so their wavelength looks always the same – unless something disturbs them.</p>
+<p>Near one of these pipelines, for instance, if a heavy enough truck passes by on a road even a few kilometers away, the laser wavelengths will be disturbed. The places where the lasers are being fired need to be cautiously protected from external influences to prevent interference with the lasers.</p>
+<p>Then, people fire up the lasers and wait…</p>
+<p>Eventually, the scientists noticed that lasers in different pipelines across the world felt the same disturbance. These disturbances were caused by spacetime itself squeezing and stretching (albeit an extremely tiny amount – only detectable by these high-accuracy lasers). This shaking of the fabric of reality itself was caused by two black holes colliding light-years away from Earth. And we were able to know that happened.</p>
+<h3 id="flying-away">Flying away</h3>
+<p>The discovery of black holes and the fact that we can study such things represent the ingenuity and greatness of the human mind. Around a hundred years ago, when we did not have any means to detect these gentle monsters, brilliant people simply <em>implied</em> that they might exist.</p>
+<p>Physicists studied reality around them, asked themselves what would happen under extreme conditions, and made predictions as to what the outcome would be. And sure enough, once we sorted the technology out, we confirmed all of these predictions.</p>
+<p>How amazing is that? That us, bumbling monkeys on a small rocky planet, light years away from the nearest black hole, are indeed able to predict its existence and what it might look like, based only on ideas and the power of reason.</p>
+<p>Somehow, for some reason, billions of years ago, atoms got together in a beautiful dance that would ignite the stars themselves. The stars, throughout generations, would create the building blocks of all elements of nature. Through fire and ice, these elements would eventually find their way back together, creating one small rocky planet. On this planet, and perhaps in many others, the elements produced in the bellies of stars would conspire in such a way that life could not only begin, but that life could think. The same atoms from the beginning of time are now here, awaken, and discussing about what lies at the edge of the unknown.</p>
+<p>In the poem that is reality, black holes seem to be the full stops between the sentences that describe the laws of the cosmos. Like full stops, black holes are neutral &ndash; neither good nor evil – they simply delineate the limits of the story itself. They represent endings. They represent beginnings. Perhaps our duty is to keep studying this poem, a line at a time, and always get a little bit closer at lifting the veil of the mystery of nature itself.</p>
+<h3 id="footnotes">Footnotes</h3>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>For reasons which we yet do not understand, there was some left-over matter during this period. In theory, there should not have been any matter at all (the universe should be &ldquo;empty&rdquo;). During the Big Bang, the extreme conditions of the early universe caused matter and anti-matter particles to come in and out of existence, annihilating each other. For some unknown reason, matter outweighed anti-matter by a very tiny fraction (something like one billion and one particles of matter for one billion particles of anti-matter). This excess matter would eventually become you, the moon, and the stars. Indeed, every single atom in our bodies can trace back its ancestry to the Big Bang. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Nuclear fusion keeps mixing elements up until it reaches Iron. The Iron atoms are not able to be fused into anything new, and so the nuclear fusion process comes to a halt. During the Big Bang, only a few elements were created – the simpler ones. Things like Hydrogen and Helium. Then, during the lifetime of stars, heavier elements (up until Iron) were created. Finally, a lot of the more exotic and even heavier elements are only created with super-duper crazy conditions, like the massive explosions that take place in a star’s final days – a supernova. There, elements like copper, mercury, gold, iodine, and lead are created. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>Helium is the only element in the period table that was not discovered on Earth! It was inferred to exist by analyzing the sun’s spectrum (i.e. the light that it emits). Scientists could not find any element on Earth that had the same light signatures as Helium. It was only many years later that they would eventually find the element Helium here on Earth. Since they discovered the element coming from the Sun, they named it after the Greek Sun God (Helios). <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4" role="doc-endnote">
+<p>This threshold is called the Schwarzschild Radius, after the physicist Karl Schwarzschild, who came up with this solution while out on the battlefield during the First World War. All we need to do to find out this radius is plug an object&rsquo;s mass into a formula, and boom. Anything that has mass could become a black hole – all it takes is compressing it into an area with a small enough radius. Earth could become a black hole too! All we would have to do is compress every single atom that is on Earth into a space that has a radius no larger than 9 millimeters. <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5" role="doc-endnote">
+<p>The moon only shows one side to us because its rotation period (how long it takes to go around its axis) is equal to its orbit period (how long it takes to go around Earth). This is a result of tidal locking between the Earth and the moon, and a not so unusual phenomenon in our solar system. Pluto and its moon, Charon, are also tidally locked. <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+    </article>
+
+
+    
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+<section id="articleNext" class="section nartrow">
+    <h3 class="footer-next-heading">More articles from My New Hugo Site</h3>
+    <div class="footer-spacer"></div>
+    <div class="next-articles-grid" numberOfArticles={numberOfArticles}>
+        <div class="post-row">
+            
+                <a href="capm96.github.io/post/astrology/" class="article-link"
+                 id="article-link-bigger">
+                    <div>
+                        <div class="image-container">
+                            <img src="/images/sunflower.jpg" class="article-image" />
+                        </div>
+                        <div>
+                            <h2 class="article-title">
+                                No Need To Look Away
+                            </h2>
+                            <p class="article-excerpt">
+                                
+                            </p>
+                            <div class="article-metadata">
+                                August 19, 2019 · 26 min read
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="capm96.github.io/post/parece/" class="article-link"
+                >
+                    <div>
+                        <div class="image-container">
+                            <img src="/images/sunflower.jpg" class="article-image" />
+                        </div>
+                        <div>
+                            <h2 class="article-title">
+                                Parece mas não é
+                            </h2>
+                            <p class="article-excerpt">
+                                
+                            </p>
+                            <div class="article-metadata">
+                                July 9, 2019 · 18 min read
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+        </div>
+    </div>
+</section>
+
+</section>
+
+
+ <script src="/capm96.github.io/js/progressBar.js"></script>
+
+        
+        <div class="footer-gradient"></div>
+    <div class="section narrow">
+      <div class="footer-hr"></div>
+      <div class="footer-container">
+        <div class="footer-text">
+          © 2020 My New Hugo Site
+        </div>
+        <div class="social-icon-outer">
+    <div class="social-icon-container">
+        
+    </div>
+</div>
+    </div>
+</div>
+
+    </div>
+
+    
+    <script src="/capm96.github.io/js/prism.js"></script>
+</body>
+
+</html>
