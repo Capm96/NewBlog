@@ -1,7 +1,8 @@
 ---
 title: "Ignorance, Trust, and Gratitude"
 date: 2019-05-31T13:21:56-03:00
-hero: /images/sunflower.jpg
+hero: /images/itg.jpg
+excerpt: "The overlooked (but perhaps inescapable) cycle behind everything, and what it could mean to be part of it."
 description: "This is a meta description"
 ---
 

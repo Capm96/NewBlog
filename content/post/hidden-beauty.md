@@ -2,6 +2,7 @@
 title: "The Hidden Beauty of (Mathematical) Irrationality"
 date: 2019-05-23T16:15:04-03:00
 hero: /images/sunflower.jpg
+excerpt: "The Golden Ratio, Fibonacci, and how sunflowers carry the universe in them."
 description: "This is a meta description"
 ---
 The words which you are reading now have no objective truth behind them. How could they? We invented them. Every single language on Earth is a human invention, designed to facilitate communication and ultimately enable us to work together cohesively. It is in fact the greatest human invention, since it is the one which all others are built upon.

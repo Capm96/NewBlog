@@ -1,7 +1,8 @@
 ---
 title: "The Light That Guides You Home"
 date: 2019-06-08T22:07:43-03:00
-hero: /images/sunflower.jpg
+hero: /images/light.jpg
+excerpt: "How Einstein's brilliance permeates through the most abstract and most fundamental part of our lives."
 description: "This is a meta description"
 ---
 If you were asked to explain the most implausible fact you know, but which is also true without a doubt, what would it be?

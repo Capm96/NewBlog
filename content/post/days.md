@@ -1,7 +1,8 @@
 ---
 title: "Days That Change Everything"
 date: 2019-06-12T17:58:03-03:00
-image: images/blog/archduke.jpg
+hero: images/archduke.jpg
+excerpt: "How some coincidences defined history, the importance of alternative scenarios, and a look at infinity."
 description: "This is a meta description"
 ---
 

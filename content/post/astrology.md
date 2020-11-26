@@ -1,7 +1,8 @@
 ---
 title: "No Need To Look Away"
 date: 2019-08-19T18:34:32+04:00
-hero: /images/sunflower.jpg
+hero: /images/astrology.jpg
+excerpt: "Astrology, and why there might be better alternatives for connecting with the universe."
 ---
 When I was little, my mother would tell me "eat your vegetables!" all the time. Most of the time I did not want to eat the vegetables. But she would tell me "it is for your own good", and I believed her. **I believed her.**
 

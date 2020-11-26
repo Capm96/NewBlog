@@ -1,7 +1,8 @@
 ---
 title: "Parece mas não é"
 date: 2019-07-09T20:00:41-03:00
-hero: /images/sunflower.jpg
+hero: /images/dichotomy.jpg
+excerpt: "Exploring different ways of viewing the world, and how we might benefit from doing such."
 description: "This is a meta description"
 ---
 When I was a kid, my mom gave me a very special book called *Parece mas não é*.

@@ -1,7 +1,8 @@
 ---
 title: "Spaghetti and Infinity"
 date: 2020-02-24T18:18:08Z
-hero: /images/sunflower.jpg
+hero: /images/blackhole.jpg
+excerpt: "And how they are connected by the second weirdest thing in the universe, black holes."
 description: "This is a meta description"
 ---
 Out there in the dark sky lies a gentle monster that would seem fictional if it were not all too real. But perhaps monster is too harsh a word, for it means no harm. Its only quarrel is with reality itself, in an attempt to push the fabric of everything to the limit.

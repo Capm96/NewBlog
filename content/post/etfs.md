@@ -1,7 +1,8 @@
 ---
 title: "Money Boats"
 date: 2020-09-24T20:12:15+01:00
-hero: /images/sunflower.jpg
+hero: /images/complicated.jpg
+excerpt: "A look into shares, the stock market, and one of the many ways to invest for the long-term."
 description: "This is a meta description"
 ---
 
