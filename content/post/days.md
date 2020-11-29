@@ -42,7 +42,7 @@ Consider the arguments that if it were not for the First, maybe the Second World
 
 ![Image](/images/blog/coincidence/balkans.jpg)
 
-* Figure 1.1 - [Map of the Balkan region in the early 20th century](https://alphahistory.com/worldwar1/balkans/)
+_Figure 1.1 - [Map of the Balkan region in the early 20th century.](https://alphahistory.com/worldwar1/balkans/)_
 
 The Balkans, pictured in the above, is a small region in Southeastern Europe with a long and rich history. The geographical location and the diverse ethnicities (Slavic, Greek, Turkish, etc) of the region made it a melting pot of cultural exchange and mercantile activities for centuries.
 
@@ -50,9 +50,9 @@ A large part of the Balkans had been under Ottoman rule from the 14th century to
 
 European powers of the time had been interested in the Balkans for two main reasons:
 
-1)    Its geographical location, which enabled a connection point between Austria-Hungary, Russia, and the rest of the Ottoman Empire.
+1. Its geographical location, which enabled a connection point between Austria-Hungary, Russia, and the rest of the Ottoman Empire.
 
-2)    The question of what would happen to the stability of the region now that the Ottoman empire was gone.
+2. The question of what would happen to the stability of the region now that the Ottoman empire was gone.
 
 The region also carried some larger-scale importance as it displayed the differing European diplomatic relations at the time. More specifically, Germany was allied with Austria-Hungary, while Russia was allied with Serbia.
 
@@ -96,7 +96,7 @@ Princip fired two shots which killed the Archduke and his wife, and the rest is 
 
 ![Image](/images/blog/coincidence/rua.jpg)
 
-* Figure 1.2 -  [Travel timeline for the Archduke](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)
+_Figure 1.2 -  [Travel timeline for the Archduke.](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)_
 
 ### What ifs
 

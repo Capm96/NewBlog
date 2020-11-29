@@ -70,7 +70,7 @@ There is something called the ecliptic which is very important in understanding 
 
 ![Image](/images/blog/astrology/ecliptic.gif)
 
-  * Figure 1.1 - [The ecliptic](https://en.wikipedia.org/wiki/Ecliptic)
+_Figure 1.1 - [The ecliptic.](https://en.wikipedia.org/wiki/Ecliptic)_
 
 If we look at this path throughout the year, we will notice the sun being in front of different constellations at different times.
 
@@ -84,7 +84,7 @@ There are 88 constellations in total, but only 12 of them that are in that path 
 
 ![Image](/images/blog/astrology/constellations.jpg)
 
-  * Figure 1.2 - [The constellations](https://astrologybay.com/)
+_Figure 1.2 - [The constellations.](https://astrologybay.com/)_
 
 This is where Western astrology gets their signs from. It is important to note, however, that Western astrology does not deal with the constellations, but with the signs. This is for simplicity.
 
@@ -146,7 +146,7 @@ As you might know, the Earth is a sphere and we are a little tilted, which is wh
 
 ![Image](/images/blog/astrology/axis.jpg)
 
-  * Figure 1.3 - [The axis of the earth](https://grist.files.wordpress.com/2016/04/earth-axis-tilt.jpg?w=1200&h=675&crop=1)
+_Figure 1.3 - [The axis of the earth.](https://grist.files.wordpress.com/2016/04/earth-axis-tilt.jpg?w=1200&h=675&crop=1)_
 
 Consider that stick to be the Earth's axis. It is by measuring that, versus an imaginary stick which is upright, that we get the tilt of the Earth (23.5°).
 
@@ -156,7 +156,7 @@ But Polaris will not always be the North Star. That is because the Earth's axis 
 
 ![Image](/images/blog/astrology/precession.gif)
 
-  * Figure 1.4 - [The precession of the Earth illustrated](https://calendars.wikia.org/wiki/File:Axial_precession.gif)
+_Figure 1.4 - [The precession of the Earth illustrated.](https://calendars.wikia.org/wiki/File:Axial_precession.gif)_
 
 2,000 years ago, when we were coming up with those names for the constellations, our axis was in a different place. Because of that, for example, if you were to walk up to the North Pole and look right above, you would not see Polaris the way we do today.
 
@@ -250,7 +250,7 @@ I will finish by sharing one image: The Hubble Legacy Field.
 
 ![Image](/images/blog/astrology/legacy.png)
 
-* Figure 1.5 - [Hubble legacy field](https://hubblesite.org/image/4492/news)
+_Figure 1.5 - [Hubble legacy field.](https://hubblesite.org/image/4492/news)_
 
 I cannot post the image on its original size because it is quite heavy – almost as heavy as an entire movie. This large size is accounted by the fact that the original image contains a lot of information.
 

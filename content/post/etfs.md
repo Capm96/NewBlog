@@ -6,7 +6,7 @@ excerpt: "A look into shares, the stock market, and one of the many ways to inve
 description: "This is a meta description"
 ---
 
-* Disclaimer: None of this should be considered as financial advice. Please do your own research before investing anything. There is no easy way to make money. The goal here is to introduce one of the thousands of ways one might invest their money, and why it can be a good idea for some people.
+_Disclaimer: None of this should be considered as financial advice. Please do your own research before investing anything. There is no easy way to make money. The goal here is to introduce one of the thousands of ways one might invest their money, and why it can be a good idea for some people._
 
 Think back about everything we forgot from our educational years… Why was so much time spent memorizing what a covalent bond is, instead of how to deal with the inevitable stresses of life? Why prioritize something which only a small minority of students will ever use, instead of focusing on something which all students will go through?
 
@@ -24,9 +24,9 @@ There are thousands of ways in which one could invest their money. These ways de
 
 For many of us, however, the profile is the same: 
 
-1. We want to put a little bit away at the end of every month, so that we can save for the long-term (first car, first house, retirement, etc.)
-2. We do not want to take on too much risk.
-3. We do not know much about finance, and we can't spend too much time on this. It should be simple.
+* We want to put a little bit away at the end of every month, so that we can save for the long-term (first car, first house, retirement, etc.)
+* We do not want to take on too much risk.
+* We do not know much about finance, and we can't spend too much time on this. It should be simple.
 
 The following tries to address what someone with that profile might do, and untangle a tiny amount of the financial mess our world displays, and show that behind these curtains lies something which is not as complicated as we might believe.
 
@@ -89,7 +89,7 @@ The NYSE does not operate this way! The NYSE is a secondary market. When you buy
 
 ![Image](/images/blog/etf/shares-art.png)
 
-* Figure 1.1 - My amazing powerpoint skills
+_Figure 1.1 - My amazing powerpoint skills._
 
 So, if when we put money in the stock market, we are not actually giving money to a company, what are we doing? 
 
@@ -129,7 +129,7 @@ And as we saw, when there is more demand for something, its price will increase.
 
 ![Image](/images/blog/etf/sp-long-term.jpg)
 
-* Figure 1.2 - [Google SP&500](https://www.google.com/search?q=sp500&rlz=1C1AVFC_enUS821US821&oq=sp500&aqs=chrome.0.35i39l2j0j69i61j69i60l2j69i61j69i60.800j1j9&sourceid=chrome&ie=UTF-8)
+_Figure 1.2 - [Google SP&500.](https://www.google.com/search?q=sp500&rlz=1C1AVFC_enUS821US821&oq=sp500&aqs=chrome.0.35i39l2j0j69i61j69i60l2j69i61j69i60.800j1j9&sourceid=chrome&ie=UTF-8)_
 
 
 The graph above shows the US stock market value over 30+ years. In this time frame, the effects of economics we mentioned can be seen. It takes a long time for these cycles to take place, but almost all countries become richer with time, and their stock markets tend to have the shape above.
@@ -138,7 +138,7 @@ Weekly, however, not enough time has lapsed to give way to these economic effect
 
 ![Image](/images/blog/etf/sp-short-term.jpg)
 
-* Figure 1.3 - [Google SP&500](https://www.google.com/search?q=sp500&rlz=1C1AVFC_enUS821US821&oq=sp500&aqs=chrome.0.35i39l2j0j69i61j69i60l2j69i61j69i60.800j1j9&sourceid=chrome&ie=UTF-8)
+_Figure 1.3 - [Google SP&500.](https://www.google.com/search?q=sp500&rlz=1C1AVFC_enUS821US821&oq=sp500&aqs=chrome.0.35i39l2j0j69i61j69i60l2j69i61j69i60.800j1j9&sourceid=chrome&ie=UTF-8)_
 
 This difference in graphs reflects the things we mentioned earlier. 
 
@@ -157,13 +157,12 @@ We will use this fact that the market seems to increase in value over time to ou
 In summary:
 
 1. A stock market is a place where people like you and I can buy and sell shares.
-- None of the transactions in the stock market give money to the company – the transaction only transfers money between the buyer and the seller, which could be Liz and Sue down the street.
-- It is impossible to predict what the stock market will do tomorrow. It is also impossible to predict what an individual company will do.
-- Share prices are affected by supply and demand. If a lot of people are trying to buy it, prices go up. If a lot of people are trying to sell it, prices go down.
-- Economies tend to grow over time. As economies grow, its people have more money to spend, and part of it goes into the stock market. As we saw, more demand for something increases its price. And more money in the stock market increases its value.
-- The stock market is volatile in the short-term – gambling takes over (daily, weekly, even yearly).
-- The stock market tends to grow in the long-term – economics takes over (over many years).
-
+2. None of the transactions in the stock market give money to the company – the transaction only transfers money between the buyer and the seller, which could be Liz and Sue down the street.
+3. It is impossible to predict what the stock market will do tomorrow. It is also impossible to predict what an individual company will do.
+4. Share prices are affected by supply and demand. If a lot of people are trying to buy it, prices go up. If a lot of people are trying to sell it, prices go down.
+5. Economies tend to grow over time. As economies grow, its people have more money to spend, and part of it goes into the stock market. As we saw, more demand for something increases its price. And more money in the stock market increases its value.
+6. The stock market is volatile in the short-term – gambling takes over (daily, weekly, even yearly).
+7. The stock market tends to grow in the long-term – economics takes over (over many years).
 
 ## Enter ETFs
 
@@ -227,7 +226,7 @@ We mentioned a lot of abstract things, so let us look at a real boat.
 
 ![Image](/images/blog/etf/vwrl-long-term.jpg)
 
-* Figure 1.4 - [Google VWRL](https://www.google.com/search?rlz=1C1AVFC_enUS821US821&sxsrf=ALeKk00QJ9AI8I6n_Wful5lZ3bl4d0Y1zQ%3A1601496363194&ei=K-V0X-azC9aJ1fAP85OL0AE&q=VWRL&oq=VWRL&gs_lcp=CgZwc3ktYWIQAzIMCCMQJxCdAhBGEPoBMgQIIxAnMgQIIxAnMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoHCCMQJxCdAjoECAAQQzoLCC4QsQMQxwEQowI6BQgAELEDOgUIABCRAjoOCC4QsQMQgwEQxwEQowI6CAgAELEDEIMBUIXwBVi0-AVg7fkFaABwBHgBgAHWBIgB4waSAQcyLjEuNS0xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwim9dju1pHsAhXWRBUIHfPJAhoQ4dUDCA0&uact=5)
+_Figure 1.4 - [Google VWRL.](https://www.google.com/search?rlz=1C1AVFC_enUS821US821&sxsrf=ALeKk00QJ9AI8I6n_Wful5lZ3bl4d0Y1zQ%3A1601496363194&ei=K-V0X-azC9aJ1fAP85OL0AE&q=VWRL&oq=VWRL&gs_lcp=CgZwc3ktYWIQAzIMCCMQJxCdAhBGEPoBMgQIIxAnMgQIIxAnMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoHCCMQJxCdAjoECAAQQzoLCC4QsQMQxwEQowI6BQgAELEDOgUIABCRAjoOCC4QsQMQgwEQxwEQowI6CAgAELEDEIMBUIXwBVi0-AVg7fkFaABwBHgBgAHWBIgB4waSAQcyLjEuNS0xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwim9dju1pHsAhXWRBUIHfPJAhoQ4dUDCA0&uact=5)_
 
 The above is an ETF. It is created by a company called Vanguard. This ETF tracks down all the stock markets in the world, and creates a huge boat which combines all shares in all stock markets in the world. [This](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing) contains information about the ETF above.
 
@@ -235,7 +234,7 @@ Here are some of the returns:
 
 ![Image](/images/blog/etf/vwrl-returns-long.jpg)
 
-* Figure 1.5 - [VWRL Returns](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
+_Figure 1.5 - [VWRL Returns.](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)_
 
 Since its inception in 2012, this investment option returned 128% -- our money would have more than doubled in these 8 years. The benchmark in that graph is the actual stock market, where is the NAV is our boat – you can see how closely the two things are linked. 
 
@@ -261,17 +260,17 @@ If you are still here, I hope the above helped you even a little. Most important
 
 1. Shares are not the only way a firm can raise cash. There is another way, and that is through debt, or, getting a loan. How many shares and how much debt a firm uses depends on many factors. Often, it will be a combination of both, since abusing one can be more expensive.
 
-3. The view of shares above was simplified. In the real world, shares are more than just a means of distributing ownership. They often include voting rights which allow the shareholders to elect the board of directors in a company, which in turn choose who the CEO of the firm is. Some shares do not include voting rights, and instead might just give the shareholder the right to earn dividends. There are all flavors of shares out there. Also, in large corporations like Apple, it is not a requirement that 100% of the profits get returned to the shareholders. All companies keep part of their profit. The other part is what goes back to shareholders as dividends.
+2. The view of shares above was simplified. In the real world, shares are more than just a means of distributing ownership. They often include voting rights which allow the shareholders to elect the board of directors in a company, which in turn choose who the CEO of the firm is. Some shares do not include voting rights, and instead might just give the shareholder the right to earn dividends. There are all flavors of shares out there. Also, in large corporations like Apple, it is not a requirement that 100% of the profits get returned to the shareholders. All companies keep part of their profit. The other part is what goes back to shareholders as dividends.
 
-8.	When we hear on the news that Amazon has reached a USD$ 2 trillion value, that number is calculated by multiplying all Amazon shares by their prices. As of today, Amazon has around 500 million shares in the market. The price of each of these shares is around USD$ 3,300. The value, or market cap, of Amazon, is 500,000,000 * $3,300, or, USD$ 1.65 trillion. We can calculate the market cap for an entire stock market as well. We just need to sum all of the market caps from the companies inside the market. 
+3.	When we hear on the news that Amazon has reached a USD$ 2 trillion value, that number is calculated by multiplying all Amazon shares by their prices. As of today, Amazon has around 500 million shares in the market. The price of each of these shares is around USD$ 3,300. The value, or market cap, of Amazon, is 500,000,000 * $3,300, or, USD$ 1.65 trillion. We can calculate the market cap for an entire stock market as well. We just need to sum all of the market caps from the companies inside the market. 
 
-5.	Primary market transactions often take place as IPO’s (Initial Public Offerings). These are not open to individuals. They usually involve the issuing company hiring an investment bank, which will then sell the shares to a select group of corporations. We can only access these shares once these corporations let go of them in the stock market. 
+4.	Primary market transactions often take place as IPO’s (Initial Public Offerings). These are not open to individuals. They usually involve the issuing company hiring an investment bank, which will then sell the shares to a select group of corporations. We can only access these shares once these corporations let go of them in the stock market. 
 
-7.	Past performance is not an indication of future performance. This is true for Apple, the entire stock market, or the economy of the US. It could be that we are now on a downward trajectory for many years to come. That is quite unlikely, however. And if we were in a position where the economy was continually shrinking, stock prices might be one of the last of our concerns.
+5.	Past performance is not an indication of future performance. This is true for Apple, the entire stock market, or the economy of the US. It could be that we are now on a downward trajectory for many years to come. That is quite unlikely, however. And if we were in a position where the economy was continually shrinking, stock prices might be one of the last of our concerns.
 
 6.	ETFs also have their flaws. One of them is that they are subject to the movements of the market to the dot. If the market goes down substantially, the ETF will also go down substantially. What you get in exchange for this mirroring is a really low payment fee for the ETF, since it is really easy to use it. The creators of the ETF just do whatever the stock market is doing - this is also called passive investing. This contrasts well with mutual funds, or active investors, who have a higher fee, but who can provide more risk-adjusted returns. Mutual fund managers are actively modifying the portfolio to ensure that they are doing the best they can. This is the difference between active investing and passive investing. A mutual fund manager that is knowledgeable about the market might be able to prevent the fund from dropping as low as the market in times of financial turmoil. However, in exchange for this hands-on-deck management, one needs to pay a higher fee, which in the long-term might erode a large chunk of the gains.
 
-1. There are ETFs for so many things in the world. Technology stocks, real estate stocks, green energy stocks, Japanese stocks... the companies that create ETF’s explore virtually all asset classes. There are also ETF's for things outside of stocks, like commodities for example. ETF’s can also include debt (loans). People who usually vouch for ETF’s will usually mix shares with debt ETFs because they complement each other quite nicely in terms of risk/reward. As diversified as equity ETF’s are, they are still subject to downturns in recessions and periods of stock market losses. Cushioning that with debt can be quite useful. 
+7. There are ETFs for so many things in the world. Technology stocks, real estate stocks, green energy stocks, Japanese stocks... the companies that create ETF’s explore virtually all asset classes. There are also ETF's for things outside of stocks, like commodities for example. ETF’s can also include debt (loans). People who usually vouch for ETF’s will usually mix shares with debt ETFs because they complement each other quite nicely in terms of risk/reward. As diversified as equity ETF’s are, they are still subject to downturns in recessions and periods of stock market losses. Cushioning that with debt can be quite useful. 
 
 ## Further readings and sources:
 

@@ -69,13 +69,10 @@ Before thinking about the optimal solution, lets consider what you need to do. A
 
 Yes and no. The crucial point is this: **the amount of a rotation between planting each seed**. If you planted a seed, did a full turn, planted another, did a full turn, and planted another, you’d have a straight line until you couldn’t plant anymore. That is poor design, because you want to maximize the space used around you, and by turning that much you left a lot of space unused.
 
-I have a made a small visualization tool to help us pretend you are a sunflower. Try playing around with it and inputting different rotation amounts. Here are a few fun numbers to try: 0.10, 0.33, 0.501, or anything you want!
+I have a made a small [visualization tool](https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FcxoIdydXsyMr1reTpiqUsm2YJcI3%2Fcontent%2F10062dd3-e3f5-af79-0320-aeb1e2ad48c8&imagePath=screens/0.png%22%20style=%22width:650px;height:650px;border:0) to help us pretend you are a sunflower. Try playing around with it and inputting different rotation amounts. Here are a few fun numbers to try: 0.10, 0.33, 0.501, or anything you want!
 
 NOTE: I built this using Unity and WebGL, and it will not work properly if you are on a mobile phone. Here is the source [code](https://github.com/Capm96/Visualizations/blob/master/Golden%20Ratio/Assets/Scripts/Flower.cs) if you are interested.
 
-<iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FcxoIdydXsyMr1reTpiqUsm2YJcI3%2Fcontent%2F10062dd3-e3f5-af79-0320-aeb1e2ad48c8&imagePath=screens/0.png" style="width:650px;height:650px;border:0"></iframe>
-
-<br> </br>
 ### Figuring out the optimal rotation amount
 
 Well then, how do we figure out the optimal rotation amount? The truth is, there is a straight forward way of doing it. We can already eliminate every rotation amount that represents a rational number.

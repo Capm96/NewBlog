@@ -66,7 +66,7 @@ In the picture below, Earth (the bowling ball) curves space (your mattress) and 
 
 ![Image](/images/blog/gravity/curvature.jpg)
 
-* Figure 1.1 - [The curvature of spacetime illustrated](https://www.sciencenews.org/article/einsteins-genius-changed-sciences-perception-gravity) 
+_Figure 1.1 - [The curvature of spacetime illustrated.](https://www.sciencenews.org/article/einsteins-genius-changed-sciences-perception-gravity)_
 
 This is a fascinating realization, and although abstract at the moment, highlights the genius realization of Einstein - that space itself is malleable, and that what we think of gravity is fundamentally curvatures along this malleable fabric.
 
@@ -138,7 +138,7 @@ Both brothers are carrying with them an interesting clock, a light-clock. This c
 
 ![Image](/images/blog/gravity/lightclock.gif)
 
-* Figure 1.2 - [Light clock](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
+_Figure 1.2 - [Light clock.](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)_
 
 Now, consider that Bob is standing stationary in the waiting area, facing the trains, while Alice is inside the train, moving away from the station at a constant speed. Both of them have their clocks with them.
 
@@ -148,7 +148,7 @@ Alice is moving, and so is her clock, so the beam of light has to travel a large
 
 ![Image](/images/blog/gravity/movingclock2.gif)
 
-* Figure 1.3 - [Moving light clock](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
+_Figure 1.3 - [Moving light clock.](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)_
 
 Now, the crucial and most fundamental part of all of this is that the speed of light is the exact same for Bob and Alice.
 And as you might recall **distance = speed * time**.
@@ -203,7 +203,7 @@ For example, if one satellite broadcasts its signals, it will look like this:
 
 ![Image](/images/blog/gravity/sat1.jpg)
 
-* Figure 1.4 - [GPS illustration](https://gisgeography.com/trilateration-triangulation-gps/)
+_Figure 1.4 - [GPS illustration.](https://gisgeography.com/trilateration-triangulation-gps/)_
 
 Your phone receives the signal, but since it only got information from one satellite, it cannot know exactly where it is. This is because the signal that the phone receives only contains the location of the satellite, and how long the signal took to get from the satellite to your phone -- this means that the blue area you see are all the other possible locations your phone could be in.
 
@@ -211,7 +211,7 @@ If you keep repeating the process with more satellites, however, you can draw an
 
 ![Image](/images/blog/gravity/sat2.jpg)
 
-* Figure 1.5 - [GPS illustration 2](https://gisgeography.com/trilateration-triangulation-gps/)
+_Figure 1.5 - [GPS illustration pt 2.](https://gisgeography.com/trilateration-triangulation-gps/)_
 
 In short, this is how your phone is able to tell you where you are on the planet.
 

@@ -33,9 +33,9 @@ A star like our sun will maintain this process of nuclear fusion for a very long
 
 ### Turning inwards
 
-Someone named Albert once came up with an equation: E=MC<sup>2</sup>.
+Someone named Albert once came up with an equation: E=MC^2.
 
-This equation states that energy = mass * the speed of light<sup>2</sup>. The equation has so many beautiful repercussions worthy of their own discussions. For now, we are only interested in one, which states that **matter and energy are the same thing, just in different forms.**
+This equation states that energy = mass * the speed of light^2. The equation has so many beautiful repercussions worthy of their own discussions. For now, we are only interested in one, which states that **matter and energy are the same thing, just in different forms.**
 
 The sun exposes this concept magnificently.
 
@@ -53,7 +53,7 @@ Then, if 1 + 1 = "something that is not 2 but almost so", where did that missing
 
 It went into the warmth of our sunny days! Into the green of the trees, the blue of the skies, and the white of all light that we have so vitally chased after here on Earth since the beginning of life itself.
 
-As E=MC<sup>2</sup> goes, energy and matter are the same thing – just in different forms. **The missing matter from our Hydrogen + Hydrogen fusion was converted into energy – the energy we receive from the sun.**
+As E=MC^2 goes, energy and matter are the same thing – just in different forms. **The missing matter from our Hydrogen + Hydrogen fusion was converted into energy – the energy we receive from the sun.**
 
 Nuclear fusion releases an unimaginable amount of energy. So much that it can cause skin burns even from 150 million kilometers away! It is extremely counter-intuitive to think about how big the sun is because our brains are not equipped for it.
 
@@ -91,7 +91,7 @@ Eventually, this process reaches a point of such absurd implications that the un
 
 ![Image](/images/blog/blackholes/404.jpg)
 
-* Figure 1.1 - [NASA's 404 message](https://www.reddit.com/r/space/comments/akeuhv/nasas_404_error_message/)
+_Figure 1.1 - [NASA's 404 message.](https://www.reddit.com/r/space/comments/akeuhv/nasas_404_error_message/)_
 
 ### Let there be dark 
 
@@ -113,7 +113,7 @@ The point at which the gravity becomes so strong that light cannot escape is cal
 
 ![Image](/images/blog/blackholes/eventhorizon.jpg)
 
-* Figure 1.2 - [Event horizon artist's impression](https://phys.org/news/2019-01-x-ray-pulse-event-horizon-black.html)
+_Figure 1.2 - [Event horizon artist's impression.](https://phys.org/news/2019-01-x-ray-pulse-event-horizon-black.html)_
 
 As a side note, this bright stuff around the black hole is an accretion disk. These are the remains of stars and other cosmic objects that got too close to the black hole and are now being sucked in. Large clouds of matter can surround a black hole, and they are pulled in very fiercely, which heats them substantially, making them look so bright.
 
@@ -171,7 +171,7 @@ To that extent, as a person would be falling in (feet first) their feet would be
 
 ![Image](/images/blog/blackholes/spaghetti.jpg)
 
-* Figure 1.3 - [Illustration of Spaghettification](https://www.npr.org/2013/12/27/256897343/stretch-or-splat-how-a-black-hole-kills-you-matters-a-lot?t=1601497420860)
+_Figure 1.3 - [Illustration of Spaghettification.](https://www.npr.org/2013/12/27/256897343/stretch-or-splat-how-a-black-hole-kills-you-matters-a-lot?t=1601497420860)_
 
 ### Theories about what lies inside
 
@@ -203,7 +203,7 @@ Luckily, visible light (i.e., the stuff that we see in everyday life) is not the
 
 ![Image](/images/blog/blackholes/em.jpg)
 
-* Figure 1.4 - [Electromagnetic spectrum](https://www.google.com/search?q=electromagnetic+spectrum&sxsrf=ALeKk03sUAJ04EFmESOh3OFYIJA8pERMMA:1583083392461&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8noea5fnnAhWMh1wKHcV0B_IQ_AUoAXoECBAQAw&biw=1280&bih=616#imgrc=fF5lcgJ2kcyLlM)
+_Figure 1.4 - [Electromagnetic spectrum.](https://www.google.com/search?q=electromagnetic+spectrum&sxsrf=ALeKk03sUAJ04EFmESOh3OFYIJA8pERMMA:1583083392461&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8noea5fnnAhWMh1wKHcV0B_IQ_AUoAXoECBAQAw&biw=1280&bih=616#imgrc=fF5lcgJ2kcyLlM)_
 
 An x-ray, for instance, works because it focuses on different wavelengths than the ones that your skin emits light in. This means that it can essentially bypass the light that your skin emits, and focus only on the light that your insides emit.
 
@@ -223,7 +223,7 @@ Gravitational waves are similar in concept to the waves in the lake. Except that
 
 ![Image](/images/blog/blackholes/waves.gif)
 
-* Figure 1.5 - [Gravitational waves illustration](https://giphy.com/explore/gravitational-waves)
+_Figure 1.5 - [Gravitational waves illustration.](https://giphy.com/explore/gravitational-waves)_
 
 In another extraordinary feat of engineering, some brilliant people were able to detect such gravitational waves. The instrument they used for this is called LIGO (Laser Interferometer Gravitational-Wave Observatory). The first observation was announced in 2016.
 
