@@ -18,10 +18,10 @@ function initColors(){
 
 
 function makeDark(){
-    be.style.setProperty('--primary', "#9ea1a3");
-    be.style.setProperty('--secondary', "#8aa2d3");
+    be.style.setProperty('--primary', "#fff");
+    be.style.setProperty('--secondary', "#fff");
     be.style.setProperty('--grey', "#73737D");
-    be.style.setProperty('--background-color', "#2F3136");
+    be.style.setProperty('--background-color', "#111216");
     be.style.setProperty('--accent', "#E9DAAC");
     be.style.setProperty('--hover', "rgba(255, 255, 255, 0.07)");
     be.style.setProperty('--gradient', "linear-gradient(180deg, #111216 0%, rgba(66, 81, 98, 0.36) 100%)");

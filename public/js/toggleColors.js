@@ -63,25 +63,24 @@ function toggleColors(){
     }
 }
 
-// make changes here. the csss oens dont do anything i guess.
 function makeDark(){
-    bodyElement.style.setProperty('--primary', "#9ea1a3");
-    bodyElement.style.setProperty('--secondary', "#8aa2d3");
-    bodyElement.style.setProperty('--grey', "#73737D");
-    bodyElement.style.setProperty('--background-color', "#2F3136");
-    bodyElement.style.setProperty('--accent', "#E9DAAC");
-    bodyElement.style.setProperty('--hover', "rgba(255, 255, 255, 0.07)");
-    bodyElement.style.setProperty('--gradient', "linear-gradient(180deg, #111216 0%, rgba(66, 81, 98, 0.36) 100%)");
-    bodyElement.style.setProperty('--articleText', "#fff");
-    bodyElement.style.setProperty('--track', "rgba(255, 255, 255, 0.3)");
-    bodyElement.style.setProperty('--progress', "#fff");
-    bodyElement.style.setProperty('--card', "#1D2128");
-    bodyElement.style.setProperty('--error', "#EE565B");
-    bodyElement.style.setProperty('--success', "#46B17B");
-    bodyElement.style.setProperty('--errorBackground', "rgba(238, 86, 91, 0.1)");
-    bodyElement.style.setProperty('--horizontalRule', "rgba(255, 255, 255, 0.15)");
-    bodyElement.style.setProperty('--inputBackground', "rgba(255, 255, 255, 0.07)");
-    bodyElement.style.setProperty('--tooltip', "#000");
+    be.style.setProperty('--primary', "#fff");
+    be.style.setProperty('--secondary', "#fff");
+    be.style.setProperty('--grey', "#73737D");
+    be.style.setProperty('--background-color', "#111216");
+    be.style.setProperty('--accent', "#E9DAAC");
+    be.style.setProperty('--hover', "rgba(255, 255, 255, 0.07)");
+    be.style.setProperty('--gradient', "linear-gradient(180deg, #111216 0%, rgba(66, 81, 98, 0.36) 100%)");
+    be.style.setProperty('--articleText', "#fff");
+    be.style.setProperty('--track', "rgba(255, 255, 255, 0.3)");
+    be.style.setProperty('--progress', "#fff");
+    be.style.setProperty('--card', "#1D2128");
+    be.style.setProperty('--error', "#EE565B");
+    be.style.setProperty('--success', "#46B17B");
+    be.style.setProperty('--errorBackground', "rgba(238, 86, 91, 0.1)");
+    be.style.setProperty('--horizontalRule', "rgba(255, 255, 255, 0.15)");
+    be.style.setProperty('--inputBackground', "rgba(255, 255, 255, 0.07)");
+    be.style.setProperty('--tooltip', "#000");
 }
 
 function makeLight(){
