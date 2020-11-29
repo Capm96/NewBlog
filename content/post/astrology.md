@@ -68,8 +68,7 @@ And what about all the other types of astrology? Who is right in the end?
 
 There is something called the ecliptic which is very important in understanding astrology. The ecliptic is an imaginary line that traces the path of the sun across the sky throughout the year. [^5]
 
-<img src="/images/blog/astrology/ecliptic.gif" alt="Ecliptic"
-	title="ecliptic" class="responsive" />
+![Image](/images/blog/astrology/ecliptic.gif)
 
   * Figure 1.1 - [The ecliptic](https://en.wikipedia.org/wiki/Ecliptic)
 
@@ -83,8 +82,7 @@ The reason why the stars behind the sun do not appear to move is that they are e
 
 There are 88 constellations in total, but only 12 of them that are in that path that we talked about, the ecliptic. [^6] These constellations are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces. [^7]
 
-<img src="/images/blog/astrology/constellations.jpg" alt="constellations"
-	title="constellations" class="responsive" />
+![Image](/images/blog/astrology/constellations.jpg)
 
   * Figure 1.2 - [The constellations](https://astrologybay.com/)
 
@@ -146,8 +144,7 @@ If you are not at least a little bit confused by now, I am doing a poor job. So,
 
 As you might know, the Earth is a sphere and we are a little tilted, which is why we have seasons. This is what we look like, roughly speaking:
 
-<img src="/images/blog/astrology/axis.jpg" alt="axis"
-	title="axis" class="responsive" />
+![Image](/images/blog/astrology/axis.jpg)
 
   * Figure 1.3 - [The axis of the earth](https://grist.files.wordpress.com/2016/04/earth-axis-tilt.jpg?w=1200&h=675&crop=1)
 
@@ -157,8 +154,7 @@ If you were to walk up to the most Northern point in the North Pole (literally w
 
 But Polaris will not always be the North Star. That is because the Earth's axis is rotating. Over time, when we look up from that same point, we will see some other star rather than Polaris. This rotation of the Earth's axis is called precession.
 
-<img src="/images/blog/astrology/precession.gif" alt="precession"
-	title="precession" class="responsive" style="width:300px" />
+![Image](/images/blog/astrology/precession.gif)
 
   * Figure 1.4 - [The precession of the Earth illustrated](https://calendars.wikia.org/wiki/File:Axial_precession.gif)
 
@@ -252,9 +248,8 @@ And the beautiful thing about reality is that there is no need to flee from it -
 
 I will finish by sharing one image: The Hubble Legacy Field.
 
-<img src="/images/blog/astrology/legacy.png" alt="legacy"
-	title="legacy" class="responsive" />
-	
+![Image](/images/blog/astrology/legacy.png)
+
 * Figure 1.5 - [Hubble legacy field](https://hubblesite.org/image/4492/news)
 
 I cannot post the image on its original size because it is quite heavy – almost as heavy as an entire movie. This large size is accounted by the fact that the original image contains a lot of information.

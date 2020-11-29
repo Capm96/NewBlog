@@ -64,8 +64,7 @@ The universe works in the exact same way.
 
 In the picture below, Earth (the bowling ball) curves space (your mattress) and that curvature of space causes the moon (tennis ball) to alter its path through space (your mattress).
 
-<img src="/images/blog/gravity/curvature.jpg" alt="curves"
-	title="Einstein gravity" class="responsive" />
+![Image](/images/blog/gravity/curvature.jpg)
 
 * Figure 1.1 - [The curvature of spacetime illustrated](https://www.sciencenews.org/article/einsteins-genius-changed-sciences-perception-gravity) 
 
@@ -137,8 +136,7 @@ Let’s imagine we have two brothers, Bob and Alice, which are both at a train s
 
 Both brothers are carrying with them an interesting clock, a light-clock. This clock is made of two mirrors, one at the bottom, and one way up. The clock ticks every time a light beam goes from the bottom mirror to the top mirror and back again (a full-trip) as such:
 
-<img src="/images/blog/gravity/lightclock.gif" alt="clock1"
-	title="clock1" class="responsive" style="width:300px" />
+![Image](/images/blog/gravity/lightclock.gif)
 
 * Figure 1.2 - [Light clock](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
 
@@ -148,8 +146,7 @@ For Bob, who is sitting still, his clock will tick every second, as expected. Ho
 
 Alice is moving, and so is her clock, so the beam of light has to travel a larger distance to reach the top mirror, and it also has to travel a larger distance to reach the bottom mirror. In other words, the light beam takes longer to make a full round-trip.
 
-<img src="/images/blog/gravity/movingclock2.gif" alt="clock2"
-	title="clock2" class="responsive" />
+![Image](/images/blog/gravity/movingclock2.gif)
 
 * Figure 1.3 - [Moving light clock](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
 
@@ -204,8 +201,7 @@ Trilateration means combining received signals from at least three different sat
 
 For example, if one satellite broadcasts its signals, it will look like this:
 
-<img src="/images/blog/gravity/sat1.jpg" alt="sat1"
-	title="sat1" class="responsive" />
+![Image](/images/blog/gravity/sat1.jpg)
 
 * Figure 1.4 - [GPS illustration](https://gisgeography.com/trilateration-triangulation-gps/)
 
@@ -213,8 +209,7 @@ Your phone receives the signal, but since it only got information from one satel
 
 If you keep repeating the process with more satellites, however, you can draw an intersection between different signals to pick up your exact location, since they all converge to a very accurate position, as demonstrated in the picture below.
 
-<img src="/images/blog/gravity/sat2.jpg" alt="sat2"
-	title="sat2" class="responsive" />
+![Image](/images/blog/gravity/sat2.jpg)
 
 * Figure 1.5 - [GPS illustration 2](https://gisgeography.com/trilateration-triangulation-gps/)
 

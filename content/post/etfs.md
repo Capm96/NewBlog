@@ -25,8 +25,8 @@ There are thousands of ways in which one could invest their money. These ways de
 For many of us, however, the profile is the same: 
 
 1. We want to put a little bit away at the end of every month, so that we can save for the long-term (first car, first house, retirement, etc.)
-- We do not want to take on too much risk.
-- We do not know much about finance, and we can't spend too much time on this. It should be simple.
+2. We do not want to take on too much risk.
+3. We do not know much about finance, and we can't spend too much time on this. It should be simple.
 
 The following tries to address what someone with that profile might do, and untangle a tiny amount of the financial mess our world displays, and show that behind these curtains lies something which is not as complicated as we might believe.
 
@@ -87,8 +87,7 @@ Primary market transactions happen when a business sells its shares to the inves
 
 The NYSE does not operate this way! The NYSE is a secondary market. When you buy Apple shares on the NYSE, you are not giving money to Apple. You are buying the shares from another investor, which could be another individual just like you. None of the money goes to Apple. This is an exchange conducted solely between you and the person selling the share.
 
-<img src="/images/blog/etf/shares-art.png" alt="shares-art"
-	title="shares-art" class="responsive" />
+![Image](/images/blog/etf/shares-art.png)
 
 * Figure 1.1 - My amazing powerpoint skills
 
@@ -128,8 +127,7 @@ And within this cycle, more money in the economy means more money being put into
 
 And as we saw, when there is more demand for something, its price will increase. Thus, more money going in the stock market increases the prices of its shares, which increases the total stock market value. 
 
-<img src="/images/blog/etf/sp-long-term.jpg" alt="sp-long-term"
-	title="sp-long-term" class="responsive" />
+![Image](/images/blog/etf/sp-long-term.jpg)
 
 * Figure 1.2 - [Google SP&500](https://www.google.com/search?q=sp500&rlz=1C1AVFC_enUS821US821&oq=sp500&aqs=chrome.0.35i39l2j0j69i61j69i60l2j69i61j69i60.800j1j9&sourceid=chrome&ie=UTF-8)
 
@@ -138,8 +136,7 @@ The graph above shows the US stock market value over 30+ years. In this time fra
 
 Weekly, however, not enough time has lapsed to give way to these economic effects. In such a short-term, the market is solely dictated by the sum of all gambles we spoke of earlier. Weekly, the stock market can look like this:
 
-<img src="/images/blog/etf/sp-short-term.jpg" alt="sp-short-term"
-	title="sp-short-term" class="responsive" />
+![Image](/images/blog/etf/sp-short-term.jpg)
 
 * Figure 1.3 - [Google SP&500](https://www.google.com/search?q=sp500&rlz=1C1AVFC_enUS821US821&oq=sp500&aqs=chrome.0.35i39l2j0j69i61j69i60l2j69i61j69i60.800j1j9&sourceid=chrome&ie=UTF-8)
 
@@ -228,8 +225,7 @@ Over the short term, this might mean we have many ups and downs. Over many years
 
 We mentioned a lot of abstract things, so let us look at a real boat.
 
-<img src="/images/blog/etf/vwrl-long-term.jpg" alt="curves"
-	title="Einstein gravity" class="responsive" />
+![Image](/images/blog/etf/vwrl-long-term.jpg)
 
 * Figure 1.4 - [Google VWRL](https://www.google.com/search?rlz=1C1AVFC_enUS821US821&sxsrf=ALeKk00QJ9AI8I6n_Wful5lZ3bl4d0Y1zQ%3A1601496363194&ei=K-V0X-azC9aJ1fAP85OL0AE&q=VWRL&oq=VWRL&gs_lcp=CgZwc3ktYWIQAzIMCCMQJxCdAhBGEPoBMgQIIxAnMgQIIxAnMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoHCCMQJxCdAjoECAAQQzoLCC4QsQMQxwEQowI6BQgAELEDOgUIABCRAjoOCC4QsQMQgwEQxwEQowI6CAgAELEDEIMBUIXwBVi0-AVg7fkFaABwBHgBgAHWBIgB4waSAQcyLjEuNS0xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwim9dju1pHsAhXWRBUIHfPJAhoQ4dUDCA0&uact=5)
 
@@ -237,10 +233,9 @@ The above is an ETF. It is created by a company called Vanguard. This ETF tracks
 
 Here are some of the returns:
 
-<img src="/images/blog/etf/vwrl-returns-long.jpg" alt="vwrl-returns-long"
-	title="vwrl-returns-long" class="responsive" />
+![Image](/images/blog/etf/vwrl-returns-long.jpg)
 
-* Figure 1.5 - [VWRL Returns] (https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
+* Figure 1.5 - [VWRL Returns](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)
 
 Since its inception in 2012, this investment option returned 128% -- our money would have more than doubled in these 8 years. The benchmark in that graph is the actual stock market, where is the NAV is our boat – you can see how closely the two things are linked. 
 

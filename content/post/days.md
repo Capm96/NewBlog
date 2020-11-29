@@ -1,7 +1,7 @@
 ---
 title: "Days That Change Everything"
 date: 2019-06-12T17:58:03-03:00
-hero: images/archduke.jpg
+hero: /images/archduke.jpg
 excerpt: "How some coincidences defined history, the importance of alternative scenarios, and a look at infinity."
 description: "This is a meta description"
 ---
@@ -40,8 +40,7 @@ Consider the arguments that if it were not for the First, maybe the Second World
 
 ### Setting the stage
 
-<img src="/images/blog/coincidence/balkans.jpg" alt="Balkans"
-	title="Balkans" class="responsive" />
+![Image](/images/blog/coincidence/balkans.jpg)
 
 * Figure 1.1 - [Map of the Balkan region in the early 20th century](https://alphahistory.com/worldwar1/balkans/)
 
@@ -95,8 +94,7 @@ As fate would have it, Gavrilo Princip, one of the six initial terrorists, was w
 
 Princip fired two shots which killed the Archduke and his wife, and the rest is history.
 
-<img src="/images/blog/coincidence/rua.jpg" alt="rua"
-	title="rua" class="responsive" />
+![Image](/images/blog/coincidence/rua.jpg)
 
 * Figure 1.2 -  [Travel timeline for the Archduke](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)
 

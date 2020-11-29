@@ -102,8 +102,7 @@ What we need is a “Continued Fraction". This is a fraction that goes on foreve
 
 Here is what the beginning of π's continued fraction looks like:
 
-<img src="/images/blog/flower/fraction1.jpg" alt="fraction1"
-	title="fraction1" class="responsive" />
+![Image](/images/blog/flower/fraction1.jpg)
 
 If you try to truncate, i.e. cut short, the continued fraction at some point, you will get an approximation of π. This approximation's accuracy depends on where you truncate the continued fraction.
 
@@ -119,8 +118,7 @@ Therefore, it seems we can approximate irrational numbers by truncating them at 
 
 Now lets take a look at the continued fraction for Ф.
 
-<img src="/images/blog/flower/fraction2.jpg" alt="fraction2"
-	title="fraction2" class="responsive" />
+![Image](/images/blog/flower/fraction2.jpg)
 
 Do you notice anything different from π’s?
 
@@ -139,8 +137,6 @@ I find it remarkable that such a seemingly uneventful number is so omnipresent i
 The beauty of all of this is that we had absolutely nothing to do with it -- it was nature herself who adjusted the properties of the universe to maximize her utility. None of this was random. There are a set of rules governing our reality and everything must abide it, from seeds to galaxies.
 
 As I mentioned earlier, languages are human constructs, whereas mathematics is a built-in feature of the universe itself. There is no such thing as inventing mathematics, there is only discovery, because all of its inventions are already done -- it is only up to us to figure it out now, one sunflower at a time.
-
-<br> </br>
 
 ### Sources:
 

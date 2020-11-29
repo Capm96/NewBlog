@@ -89,8 +89,7 @@ With no nuclear fusion to push everything away, gravity keeps pulling the matter
 
 Eventually, this process reaches a point of such absurd implications that the universe itself glitches. This is when a black hole is born.
 
-<img src="/images/blog/blackholes/404.jpg" alt="not"
-	title="Not Found" class="responsive" />
+![Image](/images/blog/blackholes/404.jpg)
 
 * Figure 1.1 - [NASA's 404 message](https://www.reddit.com/r/space/comments/akeuhv/nasas_404_error_message/)
 
@@ -112,8 +111,7 @@ Not even light can escape from it, and light travels at 300,000 km per second, w
 
 The point at which the gravity becomes so strong that light cannot escape is called the event horizon. The event horizon is the line which afterward, all becomes dark. It is the final cross from which there is no coming back from. In the picture below, it would be the edge of where the bright things become dark in the circle. If you happen to cross that line, there appears to be no coming back.
 
-<img src="/images/blog/blackholes/eventhorizon.jpg" alt="eventhorizon"
-	title="eventhorizon" class="responsive" />
+![Image](/images/blog/blackholes/eventhorizon.jpg)
 
 * Figure 1.2 - [Event horizon artist's impression](https://phys.org/news/2019-01-x-ray-pulse-event-horizon-black.html)
 
@@ -171,8 +169,7 @@ Near a black hole, however, the gravitational forces are so severe that an objec
 
 To that extent, as a person would be falling in (feet first) their feet would begin to be pulled harder than their heads. A lot harder. This would elongate and stretch them, turning them into an ever-thinner straw, starting from the feet. This process would only get more explicit and dramatic as they kept falling in, until their feet became single atomic lines and what once was a human is now an atom pasta. This would keep happening all the way up to their heads. “Spaghettification” is a legitimate scientific term.
 
-<img src="/images/blog/blackholes/spaghetti.jpg" alt="spaghetti"
-	title="spaghetti" class="responsive" />
+![Image](/images/blog/blackholes/spaghetti.jpg)
 
 * Figure 1.3 - [Illustration of Spaghettification](https://www.npr.org/2013/12/27/256897343/stretch-or-splat-how-a-black-hole-kills-you-matters-a-lot?t=1601497420860)
 
@@ -204,8 +201,7 @@ Imagine for instance that you are in your room, and you have a black piece of pa
 
 Luckily, visible light (i.e., the stuff that we see in everyday life) is not the only type of light that exists. Visible light is only a tiny portion of the electromagnetic spectrum, which is a range of wavelengths that light exists under.
 
-<img src="/images/blog/blackholes/em.jpg" alt="em"
-	title="em" class="responsive" />
+![Image](/images/blog/blackholes/em.jpg)
 
 * Figure 1.4 - [Electromagnetic spectrum](https://www.google.com/search?q=electromagnetic+spectrum&sxsrf=ALeKk03sUAJ04EFmESOh3OFYIJA8pERMMA:1583083392461&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8noea5fnnAhWMh1wKHcV0B_IQ_AUoAXoECBAQAw&biw=1280&bih=616#imgrc=fF5lcgJ2kcyLlM)
 
@@ -225,8 +221,7 @@ Imagine yourself near a lake. A very still and calm lake. Then you throw a rock 
 
 Gravitational waves are similar in concept to the waves in the lake. Except that they don’t permeate through water, but through spacetime itself. The fabric behind everything is shaken and stretched when events massive enough happen – in particular, when two black holes are colliding.
 
-<img src="/images/blog/blackholes/waves.gif" alt="waves"
-	title="waves" class="responsive" />
+![Image](/images/blog/blackholes/waves.gif)
 
 * Figure 1.5 - [Gravitational waves illustration](https://giphy.com/explore/gravitational-waves)
 
