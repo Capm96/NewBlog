@@ -89,9 +89,7 @@ Needless to say, such horror exists. It has existed, and it can exist for very l
 
 We were incapable of using reason, truth, and dialogue to reach the conclusions about what is just, and what should be the best  objective course of action for everyone. Instead, too much power was given to people with too much unwillingness to reason, and the result was death. We were unable to see ourselves for what we really are, and we let the shadows of hatred, intolerance, ignorance, and deception blind us.
 
-The light to dispel these shadows, I believe, is the truth, because truth is what prevents such terribly ignorant and misplaced ideas from creating a standing ground. It is the fundamental component of a just and reasonable existence. Dr. Jordan Peterson explained this better than I possibly could:
-
-“Life is suffering. Love is the desire to see unnecessary suffering ameliorated. Truth is the handmaiden of love. Dialogue is the pathway to truth. Humility is recognition of personal insufficiency and the willingness to learn. To learn is to die voluntarily and be born again, in great ways and small. So, speech must be untrammeled, so that dialogue can take place; so that we can all humbly learn, so that truth can serve love, so that suffering can be ameliorated, so that we can all stumble forward, so to speak, towards the kingdom of God.”
+The light to dispel these shadows, I believe, is the truth, because truth is what prevents such terribly ignorant and misplaced ideas from creating a standing ground. It is the fundamental component of a just and reasonable existence. 
 
 We can be better, all of us, if we can speak and live according to the truth. We should not assume that reality is exactly how we *see* it, because often things *are* much different than they look! In fact, we might be *seeing* things which are very far from the truth, things that drives us to places where we commit the genocides, the witch hunts, and the gulags! All places built upon foundations of non-reason, built upon foundations of deception, of places where things *looked* a certain way, but where in fact completely misinterpreted!
 
