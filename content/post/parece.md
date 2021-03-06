@@ -71,7 +71,7 @@ Everything came from the same place. One gigantic LEGO set spilled across the sk
 
 Things might *look* like they are different, but they really *are* not so  different at all!
 
-### A hundred monkeys on a wooden raft
+### A hundred people on a wooden raft
 
 I enjoy reading about history because it makes me feel quite grateful for being alive today. The books of history contain the best and the worst of humanity, and understanding our past can create a useful inner compass of reason for navigating the present. But sometimes when I read about history I get extraordinarily shaken, for what I read seems to be so brutal that an immense sensation of grief overwhelms me.
 
@@ -124,4 +124,4 @@ Yes, countries have profound and complicated differences, and our collective his
 
 And while all of these ideas about cooperation may be farfetched and incredibly difficult to really implement, there is nothing hindering us from using them as catalysts of empathy, unity, and togetherness towards each other. Our international relations will not solve themselves if we, as individuals, keep acting divisively – global change must be built up from the individual, and the individual can change his behavior for better by acting towards the truth.
 
-If you look at it closely, you will see that we really are apes floating on a small planet in the middle of a great void, and that we are all much more alike than apart, and that maybe, for one, it would be a good idea to stop praying to the heavens and acting poorly towards each other, and instead focus on building heaven with our own hands, here on Earth.
+If you look at it closely, you will see that we really are floating on a small planet in the middle of a great void, and that we are all much more alike than apart, and that maybe, for one, it would be a good idea to stop praying to the heavens and acting poorly towards each other, and instead focus on building heaven with our own hands, here on Earth.

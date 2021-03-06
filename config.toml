@@ -1,4 +1,4 @@
-baseURL = "capm96.github.io"
+baseURL = "https://capm96.github.io/"
 languageCode = "en-us"
-title = "Infinity Doors"
+title = "Capm96.github.io"
 theme = "novela"
