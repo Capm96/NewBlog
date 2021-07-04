@@ -236,7 +236,7 @@ Here are some of the returns:
 
 _Figure 1.5 - [VWRL Returns.](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)_
 
-Since its inception in 2012, this investment option returned 128% -- our money would have more than doubled in these 8 years. The benchmark in that graph is the actual stock market, where is the NAV is our boat – you can see how closely the two things are linked. 
+Since its inception in 2012, this investment option returned 128% -- our money would have more than doubled in these 8 years. The "benchmark" in that graph is the actual stock market, and the "NAV" is our boat. We can see how closely the two things are linked. 
 
 Mind you, this is extremely simple to invest in. What you need to do is log in a website like Vanguard, create an account, choose this ETF (VWRL), and keep adding money to it at the end of every month. You could get started in less than an hour.
 

@@ -67,7 +67,7 @@ All the atoms that make up our world today came from stars, like our sun. Our su
 
 Throughout unfathomable time spans stars go through their lives, creating many different types of atoms in their core. At the end of their lives, all these different atoms are released in space through an unparalleled explosion -- a supernova. The leftovers from this explosion are attracted to each other through gravity, and they end up building new things, like a planet. And in this planet, and in you, and in everything, all these atoms are present. The building blocks of everything were created in the furnace inside the core of stars, which were once created from a single point in spacetime, the big bang.
 
-Everything came from the same place. One gigantic LEGO set spilled across the skies the universe. Billions of years, generations upon generations of stars, fire, chaos, and order... all amalgamated into the unbelievably beautiful, painful, and divine reality we experience every single day. As Carl Sagan said, “The Cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”
+Everything came from the same place. One gigantic LEGO set spilled across the universe. Billions of years, generations upon generations of stars, fire, chaos, and order... all amalgamated into the unbelievably beautiful, painful, and divine reality we experience every single day. As Carl Sagan said, “The Cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”
 
 Things might *look* like they are different, but they really *are* not so  different at all!
 
